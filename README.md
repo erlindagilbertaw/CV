@@ -14,13 +14,13 @@
 ## Experience
 ### A. Working Experience
 2022 – present : Lecturer at Universitas Katolik Santo Agustinus Hippo, Indonesia
-    1. Industrial Internship Program
-    2. Production System
-    3. Statistics II 
-    4. Operation Research I
-    5. Operation Research II
-    6. Engineering Drawing
-    7. Supply Chain Management
+1. Industrial Internship Program
+2. Production System
+3. Statistics II 
+4. Operation Research I
+5. Operation Research II
+6. Engineering Drawing
+7. Supply Chain Management
 
 ### B. Achievement
 - September 2025 MOE Elite Scholarship Awardee
