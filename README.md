@@ -23,9 +23,9 @@
 7. Supply Chain Management
 
 ### B. Achievement
-- September 2025 MOE Elite Scholarship Awardee
-- November/2021 Graduate with Cum Laude Predicate, Industrial 
+- September 2025 : MOE Elite Scholarship Awardee
+- November 2021 : Graduate with Cum Laude Predicate, Industrial 
 Engineering Study Program, Masters Program, 
 Faculty of Industrial Technology, UAJY
-- November/2021 Graduates with the Best Predicate in the Faculty  of Industrial Technology UAJY
+- November 2021 : Graduates with the Best Predicate in the Faculty  of Industrial Technology UAJY
 
