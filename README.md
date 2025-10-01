@@ -12,7 +12,14 @@
     GPA: 3.30/4.00
 
 ## Experience
-### A. Working Experience
+### A. Achievement
+- September 2025 : MOE Elite Scholarship Awardee
+- November 2021 : Graduate with Cum Laude Predicate, Industrial 
+Engineering Study Program, Masters Program, 
+Faculty of Industrial Technology, UAJY
+- November 2021 : Graduates with the Best Predicate in the Faculty  of Industrial Technology UAJY
+
+### B. Teaching Experience
 2022 – present : Lecturer at Universitas Katolik Santo Agustinus Hippo, Indonesia
 1. Industrial Internship Program
 2. Production System
@@ -22,10 +29,5 @@
 6. Engineering Drawing
 7. Supply Chain Management
 
-### B. Achievement
-- September 2025 : MOE Elite Scholarship Awardee
-- November 2021 : Graduate with Cum Laude Predicate, Industrial 
-Engineering Study Program, Masters Program, 
-Faculty of Industrial Technology, UAJY
-- November 2021 : Graduates with the Best Predicate in the Faculty  of Industrial Technology UAJY
+
 
