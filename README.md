@@ -1,23 +1,33 @@
 # Erlinda
 
 ## Education
-- 2019 – 2021 : Master of Industrial Engineering
-    Universitas Atma Jaya Yogyakarta
+- 2025 - present : <br>
+PhD in Industrial Engineering and Enterprise Information, <br>
+Tunghai University, Taiwan
+- 2019 – 2021 : <br>
+Master of Industrial Engineering, <br>
+    Universitas Atma Jaya Yogyakarta, Indonesia <br>
     GPA: 3.95/4.00
-- 2022 – 2023 : Engineering Professional Program
-    Universitas Katolik Indonesia Atma Jaya
+- 2022 – 2023 : <br>
+Engineering Professional Program, <br>
+    Universitas Katolik Indonesia Atma Jaya, Indonesia <br>
     GPA: 3.94/4.00
-- 2015 – 2019 : Bachelor of Industrial Engineering
-    Universitas Atma Jaya Yogyakarta
+- 2015 – 2019 : <br>
+Bachelor of Industrial Engineering, <br>
+    Universitas Atma Jaya Yogyakarta, Indonesia <br>
     GPA: 3.30/4.00
 
 ## Experience
 ### A. Achievement
-- September 2025 : Taiwan MOE Elite Scholarship Awardee
-- November 2021 : Graduate with Cum Laude Predicate, Industrial 
-Engineering Study Program, Masters Program, 
+- September 2025 : <br>
+Taiwan MOE Elite Scholarship Awardee <br>
+PhD Tunghai University
+- November 2021 : <br>
+Graduate with Cum Laude Predicate, <br>
+Industrial Engineering Study Program, Master's Program, <br>
 Faculty of Industrial Technology, UAJY
-- November 2021 : Graduates with the Best Predicate in the Faculty  of Industrial Technology UAJY
+- November 2021 : <br>
+Graduates with the Best Predicate in the Faculty  of Industrial Technology, UAJY
 
 ### B. Teaching Experience
 2022 – present : Lecturer at Universitas Katolik Santo Agustinus Hippo, Indonesia
