@@ -7,7 +7,6 @@
 
 ___
 ## Education
-___
 - 2025 - present : PhD Industrial Engineering & Enterprise Information, <br>
 Tunghai University (THU), Taiwan
 - 2022 – 2023 : Engineering Professional Program, <br>
@@ -22,7 +21,6 @@ Universitas Atma Jaya Yogyakarta (UAJY), Indonesia <br>
 
 ___
 ## Experience
-___
 ### A. Achievement
 - **2025 :** Taiwan MOE Elite Scholarship Awardee, PhD Tunghai University
 - **2021 :** <br>
