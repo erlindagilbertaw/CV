@@ -1,36 +1,38 @@
-# Erlinda
+# Erlinda Gilberta Wibawa
+![Tux, the Linux mascot](https://en.m.wikipedia.org/wiki/File:Tux.png)
 
 ## Education
-- 2025 - present : <br>
+- __**2025 - present :**__ <br>
 PhD in Industrial Engineering and Enterprise Information, <br>
 Tunghai University, Taiwan
-- 2019 – 2021 : <br>
+- **2019 – 2021 :** <br>
 Master of Industrial Engineering, <br>
     Universitas Atma Jaya Yogyakarta, Indonesia <br>
     GPA: 3.95/4.00
-- 2022 – 2023 : <br>
+- **2022 – 2023 :** <br>
 Engineering Professional Program, <br>
     Universitas Katolik Indonesia Atma Jaya, Indonesia <br>
     GPA: 3.94/4.00
-- 2015 – 2019 : <br>
+- **2015 – 2019 :** <br>
 Bachelor of Industrial Engineering, <br>
     Universitas Atma Jaya Yogyakarta, Indonesia <br>
     GPA: 3.30/4.00
 
 ## Experience
 ### A. Achievement
-- September 2025 : <br>
+- **2025 :** <br>
 Taiwan MOE Elite Scholarship Awardee <br>
 PhD Tunghai University
-- November 2021 : <br>
+- **2021 :** <br>
 Graduate with Cum Laude Predicate, <br>
 Industrial Engineering Study Program, Master's Program, <br>
 Faculty of Industrial Technology, UAJY
-- November 2021 : <br>
+- **2021 :** <br>
 Graduates with the Best Predicate in the Faculty  of Industrial Technology, UAJY
 
 ### B. Teaching Experience
-2022 – present : Lecturer at Universitas Katolik Santo Agustinus Hippo, Indonesia
+**2022 – present :** <br>
+Lecturer at Universitas Katolik Santo Agustinus Hippo, Indonesia
 1. Industrial Internship Program
 2. Production System
 3. Statistics II 
