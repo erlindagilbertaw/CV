@@ -7,6 +7,7 @@
 
 ___
 ## Education
+___
 - __**2025 - present :**__ <br>
 PhD in Industrial Engineering and Enterprise Information, <br>
 Tunghai University (THU), Taiwan
@@ -25,6 +26,7 @@ Bachelor of Industrial Engineering, <br>
 
 ___
 ## Experience
+___
 ### A. Achievement
 - **2025 :** <br>
 Taiwan MOE Elite Scholarship Awardee <br>
@@ -63,7 +65,7 @@ Voice of Customers Survey Of High School Students GradeXII in West Kalimantan, I
 Universitas Katolik Santo Agustinus Hippo, Indonesia
 - **2021 - 2022: Owner - Manager of an online shop in Shopee E-commerce Platform** <br>
 https://shopee.co.id/bolbon_garden
-- **2021:** Assistat Manager of Ceplok Telor Babarsari Restaurant, <br>
+- **2021: Assistat Manager of Ceplok Telor Babarsari Restaurant**, <br>
 Daerah Istimewa Yogyakarta, Indoenesia
 - **2019 - 2020: Digital Marketing Associate of Artech Co-Working Space**, <br>
 Daerah Istimewa Yogyakarta, Indoenesia
@@ -90,11 +92,11 @@ relationship structure (in the form of factors) between many variables using Fac
 
 ### D. Published Paper & Book Experience
 >Wibawa, Erlinda G., Ai, T. J., Astanti, R. D., & Dewa, P. K. D. 2024. _Production Planning and Control System_. Yogyakarta: Deepublish.
-https://deepublishstore.com/produk/buku-sistem-perencanaan-dan-pengendalian-produksi/?srsltid=AfmBOoqweuQu13Qz9mf3J1HjC3i0GqwZ45uNEd2NL35NrvRkVIBnPn-E
+[see](https://deepublishstore.com/produk/buku-sistem-perencanaan-dan-pengendalian-produksi/?srsltid=AfmBOoqweuQu13Qz9mf3J1HjC3i0GqwZ45uNEd2NL35NrvRkVIBnPn-E)
 
 > Wibawa, Erlinda G. & Dewa, Parama. (2024). Boarding House Property Market Trends and Investor Preferences in Boarding House Development: A Comparative Study with Web Scraping. *Jurnal Rekayasa Industri (JRI)*. 6. 85-99. 10.37631/jri.v6i1.1379. <br>
-https://ejournal.widyamataram.ac.id/index.php/JRI/article/view/1379/545
+[see](https://ejournal.widyamataram.ac.id/index.php/JRI/article/view/1379/545)
 
 
 > Wibawa, Erlinda G. & Dewa, Parama. (2021).Restaurant Business Insights based on Zomato Online Food Marketplace Big Data Scraping. *Proceedings of the Second Asia Pacific International Conference on Industrial Engineering and Operations Management*. 3904 - 3915. <br>
-https://ieomsociety.org/proceedings/2021indonesia/647.pdf
+[see](https://ieomsociety.org/proceedings/2021indonesia/647.pdf)
