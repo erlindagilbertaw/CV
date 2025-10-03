@@ -52,19 +52,19 @@ Lecturer at Universitas Katolik Santo Agustinus Hippo, Indonesia
     5. Operation Research II
     6. Engineering Drawing
     7. Supply Chain Management
-- **2022 – 2025 :** Head of Logistics Engineering Study Program <br>
+- **2022 – 2025 : Head of Logistics Engineering Study Program** <br>
 Universitas Katolik Santo Agustinus Hippo, Indonesia
-- **2023:** Project Leader of Landak Bersatu Foundation Project: <br>
+- **2023: Project Leader of Landak Bersatu Foundation Project:** <br>
 Voice of Customers Survey Of High School Students GradeXII in West Kalimantan, Indonesia
-- **2021:** Coordinator of Logistics Engineering Study Program, <br>
+- **2021: Coordinator of Logistics Engineering Study Program**, <br>
 Universitas Katolik Santo Agustinus Hippo, Indonesia
-- **2021 - 2022:** <br> Owner - Manager of an online shop in Shopee E-commerce Platform <br>
+- **2021 - 2022: Owner - Manager of an online shop in Shopee E-commerce Platform** <br>
 https://shopee.co.id/bolbon_garden
 - **2021:** Assistat Manager of Ceplok Telor Babarsari Restaurant, <br>
 Daerah Istimewa Yogyakarta, Indoenesia
-- **2019 - 2020:** Digital Marketing Associate of Artech Co-Working Space, <br>
+- **2019 - 2020: Digital Marketing Associate of Artech Co-Working Space**, <br>
 Daerah Istimewa Yogyakarta, Indoenesia
-- **2019 - 2020:** Owner - Manager of BOLBON Laundry & Perfume, <br>
+- **2019 - 2020: Owner - Manager of BOLBON Laundry & Perfume**, <br>
 Daerah Istimewa Yogyakarta, Indoenesia
 
 ### D. Research Experience
