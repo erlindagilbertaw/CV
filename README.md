@@ -1,5 +1,5 @@
 # Erlinda Gilberta Wibawa
-![Tux, the Linux mascot](https://en.m.wikipedia.org/wiki/File:Tux.png)
+![Tux, the Linux mascot](/assets/images/tux.png)
 
 ## Education
 - __**2025 - present :**__ <br>
