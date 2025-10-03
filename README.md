@@ -7,15 +7,15 @@
 
 ___
 ## Education
-- 2025 - present : PhD Industrial Engineering & Enterprise Information, <br>
+- **2025 - present : PhD Industrial Engineering & Enterprise Information**, <br>
 Tunghai University (THU), Taiwan
-- 2022 – 2023 : Engineering Professional Program, <br>
+- **2022 – 2023 : Engineering Professional Program**, <br>
 Universitas Katolik Indonesia Atma Jaya , Indonesia <br>
 3.94 / 4.00
-- 2019 – 2021 : Master Industrial Engineering <br>
+- **2019 – 2021 : Master Industrial Engineering** <br>
 Universitas Atma Jaya Yogyakarta (UAJY), Indonesia <br>
 3.95 / 4.00
-- 2015 – 2019 : Bachelor Industrial Engineering <br>
+- **2015 – 2019 : Bachelor Industrial Engineering** <br>
 Universitas Atma Jaya Yogyakarta (UAJY), Indonesia <br>
 3.30 / 4.00
 
