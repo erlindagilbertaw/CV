@@ -1,9 +1,11 @@
 # Erlinda Gilberta Wibawa
+
+<img src="https://github.com/user-attachments/assets/1311dc05-d9e9-4e77-8042-d84b3be545dd" alt="Foto Erlinda" width="100"/>
+
 <erlindagilbertaw@gmail.com> <br>
 <https://www.instagram.com/erlinda_gilberta/?hl=en>
 
-![My Photo](https://drive.google.com/file/d/1x_V4YbNY9eb6yyAuj6LSdJTHWjuuEHGa/view?usp=sharing)
-
+___
 ## Education
 - __**2025 - present :**__ <br>
 PhD in Industrial Engineering and Enterprise Information, <br>
@@ -11,16 +13,17 @@ Tunghai University (THU), Taiwan
 - **2019 – 2021 :** <br>
 Master of Industrial Engineering, <br>
     Universitas Atma Jaya Yogyakarta (UAJY), Indonesia <br>
-    GPA: 3.95/4.00
+    GPA: 3.95 / 4.00
 - **2022 – 2023 :** <br>
 Engineering Professional Program, <br>
     Universitas Katolik Indonesia Atma Jaya (UAJY), Indonesia <br>
-    GPA: 3.94/4.00
+    GPA: 3.94 / 4.00
 - **2015 – 2019 :** <br>
 Bachelor of Industrial Engineering, <br>
     Universitas Atma Jaya Yogyakarta (UAJY), Indonesia <br>
-    GPA: 3.30/4.00
+    GPA: 3.30 / 4.00
 
+___
 ## Experience
 ### A. Achievement
 - **2025 :** <br>
