@@ -43,7 +43,7 @@ Faculty of Industrial Technology, UAJY
 - **2021:** Guest Speaker: Business Intelligence Workshop.
 - **2021:** Participant: “Data Science with Python” Course.
 
-### C. Teaching Experience
+### C. Working Experience
 - **2022 – present : Lecturer at Universitas Katolik Santo Agustinus Hippo, Indonesia**
     1. Industrial Internship Program
     2. Production System
