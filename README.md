@@ -8,7 +8,7 @@
 ___
 ## Education
 ___
-- __**2025 - present :**__ <br>
+- **2025 - present :** <br>
 PhD in Industrial Engineering and Enterprise Information, <br>
 Tunghai University (THU), Taiwan
 - **2019 – 2021 :** <br>
@@ -28,17 +28,13 @@ ___
 ## Experience
 ___
 ### A. Achievement
-- **2025 :** <br>
-Taiwan MOE Elite Scholarship Awardee <br>
-PhD Tunghai University
+- **2025 :** Taiwan MOE Elite Scholarship Awardee, PhD Tunghai University
 - **2021 :** <br>
 Graduate with Cum Laude Predicate, <br>
 Industrial Engineering Study Program, Master's Program, <br>
 Faculty of Industrial Technology, UAJY
-- **2021 :** <br>
-Graduates with the Best Predicate in the Faculty  of Industrial Technology, UAJY
-- **2021 :** <br>
-Star - Seller badge online shop within 6 months.
+- **2021 :** Graduates with the Best Predicate in the Faculty  of Industrial Technology, UAJY
+- **2021 :** Star - Seller badge online shop within 6 months.
 
 ### B. Training, Workshop, and Guest Lecturer
 - **2024:** Certified Trainer by The National Professional Certification Agency, Indonesia.
@@ -48,8 +44,7 @@ Star - Seller badge online shop within 6 months.
 - **2021:** Participant: “Data Science with Python” Course.
 
 ### C. Teaching Experience
-- **2022 – present :** <br>
-Lecturer at Universitas Katolik Santo Agustinus Hippo, Indonesia
+- **2022 – present : Lecturer at Universitas Katolik Santo Agustinus Hippo, Indonesia**
     1. Industrial Internship Program
     2. Production System
     3. Statistics II 
@@ -65,7 +60,7 @@ Voice of Customers Survey Of High School Students GradeXII in West Kalimantan, I
 Universitas Katolik Santo Agustinus Hippo, Indonesia
 - **2021 - 2022: Owner - Manager of an online shop in Shopee E-commerce Platform** <br>
 https://shopee.co.id/bolbon_garden
-- **2021: Assistat Manager of Ceplok Telor Babarsari Restaurant**, <br>
+- **2021: Assistat Manager of Ceplok Telor Babarsari Restaurant** <br>
 Daerah Istimewa Yogyakarta, Indoenesia
 - **2019 - 2020: Digital Marketing Associate of Artech Co-Working Space**, <br>
 Daerah Istimewa Yogyakarta, Indoenesia
