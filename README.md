@@ -45,18 +45,70 @@ Faculty of Industrial Technology, UAJY
     7. Supply Chain Management
 - **2022 – 2025 : Head of Logistics Engineering Study Program** <br>
 Universitas Katolik Santo Agustinus Hippo, Indonesia
+    > - Carrying out teaching, research, and community service; <br>
+    > - Design and implement learning activities, as well as assess and evaluate the results of learning activities; <br>
+    > - Manage the teaching and learning process in the study program area; <br>
+    > - Organize and lead all teaching staff in the study program area; <br>
+    > - Formulate study program curriculum documents;
+    > - Conduct assessments of teaching staff in the study program area; <br>
+    > - Propose additional lecturers if needed, either as permanent lecturers, guest lecturers or non-permanent lecturers; <br>
+    > - Propose the facilities and infrastructure needed for teaching and learning process facilities within the study program scope; <br>
+    > - Collaborate with various parties (universities and companies) to improve the competency of study program students; <br>
+    > - Leading the study program accreditation process, from the preparation stage of all documents to field assessment by the assessor team.
+
 - **2023: Project Leader of Landak Bersatu Foundation Project:** <br>
 Voice of Customers Survey Of High School Students GradeXII in West Kalimantan, Indonesia
+    > Coordinating the preparation, implementation, and reporting of the Landak Bersatu Foundation’S big survey project:
+    > - Determining school targets and PICs for each district/city in West Kalimantan;
+    > - Creating SOP for Questionnaire Distribution;
+    > - Creating a Questionnaire Distribution Flowchart;
+    > - Creating a survey questionnaire;
+    > - Analyzing survey data;
+    > - Creating a survey report.
+
 - **2021: Coordinator of Logistics Engineering Study Program**, <br>
 Universitas Katolik Santo Agustinus Hippo, Indonesia
+    > Formulating The Curriculum Documents for the Logistics Engineering Study Program for the application for the establishment of Universitas Katolik Santo Agustinus Hippo. The formulation of the Curriculum Documents includes:
+    > - Uniqueness or Excellence of the Study Program;
+    > - Profile of Study Program Graduates;
+    > - Learning Outcomes;
+    > - Curriculum Structure;
+    > - Semester Learning Plan of the courses;
+    > - Implementation Plan for the Independent Learning Program (Indonesian Ministry of Education program for universities)
+
+
 - **2021 - 2022: Owner - Manager of an online shop in Shopee E-commerce Platform** <br>
 https://shopee.co.id/bolbon_garden
+    > Starting an online retail business in Shopee online shop platform since February 2021. Selling various vitamins & medicines for human & animal health and various seeds (BOLBON Garden), toner and cartridges (BOLBON Tech), and kite strings (Toko Layangan Bintang Timur). <br>
+    BOLBON successed in getting the title of Star-Seller store within 6 months. But finally at the end of 2022 BOLBON was forced to close because I was accepted to work as a lecturer on a different island and no one could handle my online shop. After 2 years of not operating, BOLBON reopened in May 2024 as an online shop that focuses on animal foods and health (BOLBON Pet Shop) and digital products: e-stampes (BOLBON Digital). The operations of this online shop business from the beginning until now handled by myself, starting from:
+    > - Market research;
+    > - Product development;
+    > - Products photography;
+    > - Designing product label & catalogues;
+    > - Procurement;
+    > - Purchasing;
+    > - Production;
+    > - Packaging & shipping of the goods to shipping services until the goods arrive to customers’s hands in good condition;
+    > - Provide properly and clearly QnA services to customers;
+    > - Customer & supplier relationship management;
+    > - Until the engagement rate optimization. 
+
 - **2021: Assistat Manager of Ceplok Telor Babarsari Restaurant** <br>
 Daerah Istimewa Yogyakarta, Indoenesia
-- **2019 - 2020: Digital Marketing Associate of Artech Co-Working Space**, <br>
+    > - Handle and receive all complaints and feedback from customers.
+    > - Provide regular reports on employee salaries & operating costs to the owner of Ceplok Telor Jogja.
+    > - Terminate and recruit employees according to the needs and circumstances of the outlet.
+    > - Conduct regular audits to maintain the quality of dishes and services at Ceplok Telor outlets.
+    > - Make employee shift scheduling.
+    > - Conducting stock opname.
+
+- **2019 - 2020: Digital Marketing Associate of Computa Company**, <br>
 Daerah Istimewa Yogyakarta, Indoenesia
+    > Responsible to create promotion planning and promotion content for the company Instagram accounts. I was required to make Instagram contents from all the ARTECH products (coworking space service(Artech Coworking Space), laser cutting and engraving products(Artech Laser), and hobby products(Artech Hobby)), every day with the specified quantity
+
 - **2019 - 2020: Owner - Manager of BOLBON Laundry & Perfume**, <br>
 Daerah Istimewa Yogyakarta, Indoenesia
+    > Owns a laundry service & laundry perfume business. Managed sales & marketing planning, production planning, controlling the materials & finished goods inventory, ensuring the quality of our service & products, and managing the business finance.
 
 ### D. Research Experience
 __Postgraduate student: Artificial Intelligence Course__
