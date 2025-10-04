@@ -38,7 +38,7 @@ ___
 ### C. Working Experience
 - **2022 – present : Lecturer at Universitas Katolik Santo Agustinus Hippo, Indonesia**
 
-    > | Intake / Semester  | Courses Taught                                      |
+    > |          Semester  | Courses Taught                                      |
     > |-------------------|----------------------------------------------------|
     > | Fall 2025/2026    | Operation Research II, Industrial Internship Program |
     > | Spring 2024/2025  | Operation Research I, Production System           |
