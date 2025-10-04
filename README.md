@@ -35,7 +35,7 @@ Faculty of Industrial Technology, UAJY [see](https://drive.google.com/file/d/1On
 ### 📚 Training, Workshop, & Guest Lecturer
 ## Training, Workshop, and Guest Lecturer
 
-| Year | Role / Activity | Title / Description | Certificate |
+| **Year** | **Role**            | **Title**               | **Certificate** |
 |:----:|-----------------|---------------------|:------------:|
 | 2023 | Guest Lecturer | Transformation of Mathematics Learning with Technology-Based in the Era of Independent Learning | [see](https://drive.google.com/file/d/1gcRYJvJ4dL6yHDgqdNO7fjFpb9--8w7s/view?usp=drive_link) |
 | 2021 | Guest Speaker | Business Intelligence Workshop | [see](https://drive.google.com/file/d/18dpkNv0FN_w8cxeMYtIF8zTiXw-vgYFZ/view?usp=drive_link) |
