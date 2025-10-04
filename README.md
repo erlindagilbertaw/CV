@@ -27,10 +27,10 @@ ___
 ## Experience
 ### 🏆 Achievement
 
-| Year | Achievement / Description | Proof / Link |
+| **Year** | **Achievement**               | **Certificate**    |
 |:----:|:---------------------------|:-------------|
 | 2025 | Taiwan Ministry of Education (MOE) Elite Scholarship Awardee, PhD Tunghai University | [see](https://drive.google.com/file/d/1uoZjCdcXACxwv58LyeKW48z_VQ-TGN0s/view?usp=drive_link) |
-| 2024 | *Certified Trainer by The National Professional Certification Agency, Indonesia | [see](https://drive.google.com/file/d/1xXXjp6wzgY26X-gciQfNJbS3V8s5kDTz/view?usp=drive_link) |
+| 2024 | Certified Trainer by The National Professional Certification Agency, Indonesia | [see](https://drive.google.com/file/d/1xXXjp6wzgY26X-gciQfNJbS3V8s5kDTz/view?usp=drive_link) |
 | 2023 | Certified SOLIDWORKS Associate (CSWA) | [see](https://drive.google.com/file/d/16RndXoF3g4PJ15E7nlGTWpn2_BmbzZwE/view?usp=drive_link) |
 | 2021 | Graduate with Cum Laude Predicate, Industrial Engineering Master’s Program, Faculty of Industrial Technology, UAJY | [see](https://drive.google.com/file/d/1OnEYto6IWkVWaEGiAot_f6txz12vbdpQ/view?usp=drive_link) |
 | 2021 | Graduate with the Best Predicate in the Faculty of Industrial Technology, UAJY | [see](https://drive.google.com/file/d/1_memZS0G9JTH430-WTPy6A4teUL-49bl/view?usp=drive_link) |
