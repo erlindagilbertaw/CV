@@ -9,7 +9,7 @@ ___
 
 ## Education
 | Year | Degree / Program                                             | University / Institution                                   | GPA |
-|:--------------------:|--------------------------------------------------------------|-------------------------------------------------------------|:----------------:|
+|:--------------------:|--------------------------------------------------------------|-------------------------------------------------------------|------------------|
 | 2025 – present       | **PhD in Industrial Engineering and Enterprise Information**      | Tunghai University (THU), Taiwan                            | –                |
 | 2022 – 2023          | **Engineering Professional Program**                         | Universitas Katolik Indonesia Atma Jaya, Indonesia          | 3.94 / 4.00      |
 | 2019 – 2021          | **Master of Industrial Engineering**                            | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia          | 3.95 / 4.00      |
@@ -19,7 +19,7 @@ ___
 ## Experience
 ### A. Achievement
 | Year | Achievement / Description |
-|:-----:|----------------------------|
+|-------|----------------------------|
 | **2025** | Taiwan MOE Elite Scholarship Awardee, PhD Tunghai University |
 | **2021** | Graduate with Cum Laude Predicate, Industrial Engineering Study Program, Master's Program, Faculty of Industrial Technology, UAJY |
 | **2021** | Graduated with the Best Predicate in the Faculty of Industrial Technology, UAJY |
@@ -27,7 +27,7 @@ ___
 
 ### B. Training, Workshop, and Guest Lecturer
 | Year | Certification / Activity |
-|:----:|--------------------------|
+|------|--------------------------|
 | **2024** | Certified Trainer by The National Professional Certification Agency, Indonesia |
 | **2023** | Certified SOLIDWORKS Associate (CSWA) |
 | **2023** | Guest Lecture: Transformation of Mathematics Learning with Technology - Based in the Era of Independent Learning |
@@ -49,7 +49,7 @@ ___
 
 
 - **2022 – 2025 : Head of Logistics Engineering Study Program** <br>
-Universitas Katolik Santo Agustinus Hippo, Indonesia
+**Universitas Katolik Santo Agustinus Hippo, Indonesia**
     > - Carrying out teaching, research, and community service; <br>
     > - Design and implement learning activities, as well as assess and evaluate the results of learning activities; <br>
     > - Manage the teaching and learning process in the study program area; <br>
@@ -62,8 +62,7 @@ Universitas Katolik Santo Agustinus Hippo, Indonesia
     > - Leading the study program accreditation process, from the preparation stage of all documents to field assessment by the assessor team.
 
 - **2023: Project Leader of Landak Bersatu Foundation Project:** <br>
-Voice of Customers Survey of Grade XII High School Students in West Kalimantan, Indonesia
-    > Coordinating the preparation, implementation, and reporting of the Landak Bersatu Foundation’S big survey project:
+    > Coordinating the preparation, implementation, and reporting of the Landak Bersatu Foundation’S big survey project "Voice of Customers Survey of Grade XII High School Students in West Kalimantan, Indonesia" :
     > - Determining school targets and PICs for each district/city in West Kalimantan;
     > - Creating SOP for Questionnaire Distribution;
     > - Creating a Questionnaire Distribution Flowchart;
@@ -72,7 +71,7 @@ Voice of Customers Survey of Grade XII High School Students in West Kalimantan, 
     > - Creating a survey report.
 
 - **2021: Coordinator of Logistics Engineering Study Program**, <br>
-Universitas Katolik Santo Agustinus Hippo, Indonesia
+**Universitas Katolik Santo Agustinus Hippo, Indonesia**
     > Formulating The Curriculum Documents for the Logistics Engineering Study Program for the application for the establishment of Universitas Katolik Santo Agustinus Hippo. The formulation of the Curriculum Documents includes:
     > - Uniqueness or Excellence of the Study Program;
     > - Profile of Study Program Graduates;
@@ -97,7 +96,6 @@ Universitas Katolik Santo Agustinus Hippo, Indonesia
     > - Until the engagement rate optimization. 
 
 - **2021: Assistat Manager of Ceplok Telor Babarsari Restaurant** <br>
-Daerah Istimewa Yogyakarta, Indoenesia
     > - Handle and receive all complaints and feedback from customers.
     > - Provide regular reports on employee salaries & operating costs to the owner of Ceplok Telor Jogja.
     > - Terminate and recruit employees according to the needs and circumstances of the outlet.
@@ -106,11 +104,9 @@ Daerah Istimewa Yogyakarta, Indoenesia
     > - Conducting stock opname.
 
 - **2019 - 2020: Digital Marketing Associate of Computa Company**, <br>
-Daerah Istimewa Yogyakarta, Indoenesia
     > Responsible to create promotion planning and promotion content for the company Instagram accounts. I was required to make Instagram contents from all the ARTECH products (coworking space service(Artech Coworking Space), laser cutting and engraving products(Artech Laser), and hobby products(Artech Hobby)), every day with the specified quantity.
 
 - **2019 - 2020: Owner - Manager of BOLBON Laundry & Perfume**, <br>
-Daerah Istimewa Yogyakarta, Indoenesia
     > Owns a laundry service & laundry perfume business. Managed sales & marketing planning, production planning, controlling the materials & finished goods inventory, ensuring the quality of our service & products, and managing the business finance.
 
 ### D. Research Experience
