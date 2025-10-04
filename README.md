@@ -5,9 +5,10 @@
 <erlindagilbertaw@gmail.com> <br>
 <https://www.instagram.com/erlinda_gilberta/?hl=en>
 
+<div style="text-align: justify;">
+
 ___
 ## Education
-
 | Year&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Degree / Program                                             | University / Institution                                   | GPA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |:--------------------:|--------------------------------------------------------------|-------------------------------------------------------------|:----------------:|
 | 2025 – present       | **PhD in Industrial Engineering and Enterprise Information**      | Tunghai University (THU), Taiwan                            | –                |
@@ -107,7 +108,7 @@ Daerah Istimewa Yogyakarta, Indoenesia
 
 - **2019 - 2020: Digital Marketing Associate of Computa Company**, <br>
 Daerah Istimewa Yogyakarta, Indoenesia
-    > Responsible to create promotion planning and promotion content for the company Instagram accounts. I was required to make Instagram contents from all the ARTECH products (coworking space service(Artech Coworking Space), laser cutting and engraving products(Artech Laser), and hobby products(Artech Hobby)), every day with the specified quantity
+    > Responsible to create promotion planning and promotion content for the company Instagram accounts. I was required to make Instagram contents from all the ARTECH products (coworking space service(Artech Coworking Space), laser cutting and engraving products(Artech Laser), and hobby products(Artech Hobby)), every day with the specified quantity.
 
 - **2019 - 2020: Owner - Manager of BOLBON Laundry & Perfume**, <br>
 Daerah Istimewa Yogyakarta, Indoenesia
@@ -115,6 +116,7 @@ Daerah Istimewa Yogyakarta, Indoenesia
 
 ### D. Research Experience
 __Postgraduate student: Artificial Intelligence Course__
+
 - Case study research on a banking institution dataset to determine the accuracy of the classification of clients who have subscribed to deposits compared to those who have not subscribed to deposits using Support Vector Machines (SVM). <br>
 _(Scored “A” by Prof. Ir. Ririn Diar Astanti, M.MT., D.Eng. and Prof. Ir. The Jin Ai, M.T., D.Eng.)_
 - Reinforcement Learning Case Study Research for 
@@ -132,13 +134,14 @@ _(Scored “A” by Prof. Ir. Ririn Diar Astanti, M.MT., D.Eng. and Prof. Ir. Th
 
 __Postgraduate student: Multivariate Statistic Course__
 - Case study research on a dataset to find out something as a cause of something else using Structural Equation Model (SEM). <br>
-_(Scored by Dr. Ir. Yosephine Suharyanti, M.T.: 98/100)_
+_(Scored by Dr. Ir. Yosephine Suharyanti, M.T.: 98 / 100)_
 - Case study research on a dataset to determine the 
 differences between >= 2 groups/classifications on the dependent variable using Discriminant Analysis. <br>
-_(Scored by Dr. Ir. Yosephine Suharyanti, M.T.: 96,67/100)_
+_(Scored by Dr. Ir. Yosephine Suharyanti, M.T.: 96,67 / 100)_
 - Case study research on a dataset regarding the 
 relationship structure (in the form of factors) between many variables using Factor Analysis (Exploratory Factor Analysis & Confirmatory Factor Analysis). <br>
-_(Scored by Dr. Ir. Yosephine Suharyanti, M.T.: 94/100)_
+_(Scored by Dr. Ir. Yosephine Suharyanti, M.T.: 94 / 100)_
+
 
 ### D. Published Paper & Book Experience
 >[Wibawa, Erlinda G., Ai, T. J., Astanti, R. D., & Dewa, P. K. D. 2024. _Production Planning and Control System_. Yogyakarta: Deepublish.](https://deepublishstore.com/produk/buku-sistem-perencanaan-dan-pengendalian-produksi/?srsltid=AfmBOoqweuQu13Qz9mf3J1HjC3i0GqwZ45uNEd2NL35NrvRkVIBnPn-E)
@@ -146,3 +149,5 @@ _(Scored by Dr. Ir. Yosephine Suharyanti, M.T.: 94/100)_
 > [Wibawa, Erlinda G. & Dewa, Parama. (2024). Boarding House Property Market Trends and Investor Preferences in Boarding House Development: A Comparative Study with Web Scraping. *Jurnal Rekayasa Industri (JRI)*. 6. 85-99. 10.37631/jri.v6i1.1379.](https://ejournal.widyamataram.ac.id/index.php/JRI/article/view/1379/545)
 
 > [Wibawa, Erlinda G. & Dewa, Parama. (2021).Restaurant Business Insights based on Zomato Online Food Marketplace Big Data Scraping. *Proceedings of the Second Asia Pacific International Conference on Industrial Engineering and Operations Management*. 3904 - 3915.](https://ieomsociety.org/proceedings/2021indonesia/647.pdf)
+
+</div>
