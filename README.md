@@ -30,14 +30,11 @@ Faculty of Industrial Technology, UAJY [see](https://drive.google.com/file/d/1On
 - **2020 :** 1st Winner of National Creative Video Competition with the theme "Healthy Farming, Towards Family Food Independence" by Caping Merapi [see](https://drive.google.com/file/d/1yenmvwluvTab3iz9qkmhqUqovM4t65D5/view?usp=drive_link)
 
 ### 📚 Training, Workshop, & Guest Lecturer
-| **Year** | **Role**            | **Description**         |
-|------|----------------|------------------|
-| 2023 | Guest Lecturer | Transformation of Mathematics Learning with Technology - Based in the Era of Independent Learning [see](https://drive.google.com/file/d/1gcRYJvJ4dL6yHDgqdNO7fjFpb9--8w7s/view?usp=drive_link) |
-| 2021 | Guest Speaker | Business Intelligence Workshop [see](https://drive.google.com/file/d/18dpkNv0FN_w8cxeMYtIF8zTiXw-vgYFZ/view?usp=drive_link) |
-| 2021 | Participant | “Data Science with Python” Course [see](https://drive.google.com/file/d/1ZY1eqKmyzPeS7KgoNtJzy1cYe4K9MdMp/view?usp=drive_link) |
-| 2019 | Instructor | Hand Embroidery Workshop [see](https://drive.google.com/file/d/12nQQOr3XTADpUTGFNGqYB-2YcAgGWgd9/view?usp=drive_link) |
-| 2018 | Instructor | Jelly Art Workshop [see](https://drive.google.com/file/d/1M5QJ34CTiAyoqq48D5bc9na2grAyAGCn/view?usp=drive_link) |
-
+- **2023 :** Guest Lecturer : Transformation of Mathematics Learning  with Technology - Based in the Era of Independent Learning [see](https://drive.google.com/file/d/1gcRYJvJ4dL6yHDgqdNO7fjFpb9--8w7s/view?usp=drive_link)
+- **2021 :** Guest Speaker : Business Intelligence Workshop [see](https://drive.google.com/file/d/18dpkNv0FN_w8cxeMYtIF8zTiXw-vgYFZ/view?usp=drive_link)
+- **2021 :** Participant : “Data Science with Python” Course [see](https://drive.google.com/file/d/1ZY1eqKmyzPeS7KgoNtJzy1cYe4K9MdMp/view?usp=drive_link)
+- **2019 :** Instructor : Hand Embroidery Workshop [see](https://drive.google.com/file/d/12nQQOr3XTADpUTGFNGqYB-2YcAgGWgd9/view?usp=drive_link)
+- **2018 :** Instructor : Jelly Art Workshop [see](https://drive.google.com/file/d/1M5QJ34CTiAyoqq48D5bc9na2grAyAGCn/view?usp=drive_link)
 
 ### 👩‍🏫 Working Experience
 - **2022 – present : Lecturer at Universitas Katolik Santo Agustinus Hippo, Indonesia**
