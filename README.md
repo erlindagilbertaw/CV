@@ -5,7 +5,6 @@
 <erlindagilbertaw@gmail.com> <br>
 <https://www.instagram.com/erlinda_gilberta/?hl=en>
 
-<div style="text-align: justify;">
 ___
 
 ## Education
@@ -149,5 +148,3 @@ _(Scored by Dr. Ir. Yosephine Suharyanti, M.T.: 94 / 100)_
 > [Wibawa, Erlinda G. & Dewa, Parama. (2024). Boarding House Property Market Trends and Investor Preferences in Boarding House Development: A Comparative Study with Web Scraping. *Jurnal Rekayasa Industri (JRI)*. 6. 85-99. 10.37631/jri.v6i1.1379.](https://ejournal.widyamataram.ac.id/index.php/JRI/article/view/1379/545)
 
 > [Wibawa, Erlinda G. & Dewa, Parama. (2021).Restaurant Business Insights based on Zomato Online Food Marketplace Big Data Scraping. *Proceedings of the Second Asia Pacific International Conference on Industrial Engineering and Operations Management*. 3904 - 3915.](https://ieomsociety.org/proceedings/2021indonesia/647.pdf)
-
-</div>
