@@ -10,10 +10,10 @@ ___
 ## Education
 | Year | Degree / Program | University / Institution | GPA |
 |:----:|-----------------|------------------------|:---:|
-| 2025 – present | PhD Industrial Engineering & Enterprise Information | Tunghai University (THU), Taiwan |   |
-| 2022 – 2023 | Engineering Professional Program | Universitas Katolik Indonesia Atma Jaya, Indonesia | GPA : 3.94 / 4.00 |
-| 2020 – 2021 | Master Industrial Engineering | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia | GPA : 3.95 / 4.00 |
-| 2015 – 2019 | Bachelor Industrial Engineering | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia | GPA : 3.30 / 4.00 |
+| 2025 – present | **PhD in Industrial Engineering & Enterprise Information** | Tunghai University (THU), Taiwan |   |
+| 2022 – 2023 | **Engineering Professional Program** | Universitas Katolik Indonesia Atma Jaya, Indonesia | GPA : 3.94 / 4.00 |
+| 2020 – 2021 | **Master of Industrial Engineering** | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia | GPA : 3.95 / 4.00 |
+| 2015 – 2019 | **Bachelor of Industrial Engineering** | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia | GPA : 3.30 / 4.00 |
 
 ___
 ## Experience
