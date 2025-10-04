@@ -28,7 +28,7 @@ ___
 ### 🏆 Achievement
 
 | **Year** | **Achievement**               | **Certificate**    |
-|:----:|:---------------------------|:-------------|
+|:----:|:---------------------------:|:-------------:|
 | 2025 | Taiwan Ministry of Education (MOE) Elite Scholarship Awardee, PhD Tunghai University | [see](https://drive.google.com/file/d/1uoZjCdcXACxwv58LyeKW48z_VQ-TGN0s/view?usp=drive_link) |
 | 2024 | Certified Trainer by The National Professional Certification Agency, Indonesia | [see](https://drive.google.com/file/d/1xXXjp6wzgY26X-gciQfNJbS3V8s5kDTz/view?usp=drive_link) |
 | 2023 | Certified SOLIDWORKS Associate (CSWA) | [see](https://drive.google.com/file/d/16RndXoF3g4PJ15E7nlGTWpn2_BmbzZwE/view?usp=drive_link) |
@@ -41,7 +41,7 @@ ___
 ### 📚 Training, Workshop, & Guest Lecturer
 
 | **Year** | **Role**            | **Title**               | **Certificate** |
-|:----:|-----------------|---------------------|:------------:|
+|:----:|:-----------------:|:---------------------:|:------------:|
 | 2023 | Guest Lecturer | Transformation of Mathematics Learning with Technology-Based in the Era of Independent Learning | [see](https://drive.google.com/file/d/1gcRYJvJ4dL6yHDgqdNO7fjFpb9--8w7s/view?usp=drive_link) |
 | 2021 | Guest Speaker | Business Intelligence Workshop | [see](https://drive.google.com/file/d/18dpkNv0FN_w8cxeMYtIF8zTiXw-vgYFZ/view?usp=drive_link) |
 | 2021 | Participant | Data Science with Python Course | [see](https://drive.google.com/file/d/1ZY1eqKmyzPeS7KgoNtJzy1cYe4K9MdMp/view?usp=drive_link) |
