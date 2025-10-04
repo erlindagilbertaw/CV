@@ -17,10 +17,10 @@ ___
 
 |          **Semester**  | **Courses Taught**                                      |
 |-------------------|----------------------------------------------------|
-| Fall 2025/2026    | Operation Research II, Industrial Internship Program |
-| Spring 2024/2025  | Operation Research I, Production System           |
-| Fall 2024/2025    | Statistics II, Industrial Internship Program     |
-| Spring 2023/2024  | Production System                                  |
+| 2025 – present    | Tunghai University (THU), Taiwan |
+| 2022 – 2023       | Universitas Katolik Indonesia Atma Jaya, Indonesia           |
+| 2019 – 2021       | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia     |
+| 2015 – 2019       | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia                                  |
 | Fall 2023/2024    | Statistics II, Operation Research II, <br> Engineering Drawing |
 | Spring 2022/2023  | Operation Research I                                |
 | Fall 2022/2023    | Supply Chain Management                             |
