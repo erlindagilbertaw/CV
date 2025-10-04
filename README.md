@@ -15,7 +15,15 @@ ___
 | 2019 – 2021   | **Master in Industrial Engineering**              | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia         | 3.95/4.00 |
 | 2015 – 2019   | **Bachelor in Industrial Engineering**            | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia         | 3.30/4.00 |
 
-
+|          **Semester**  | **Courses Taught**                                      |
+|-------------------|----------------------------------------------------|
+| Fall 2025/2026    | Operation Research II, Industrial Internship Program |
+| Spring 2024/2025  | Operation Research I, Production System           |
+| Fall 2024/2025    | Statistics II, Industrial Internship Program     |
+| Spring 2023/2024  | Production System                                  |
+| Fall 2023/2024    | Statistics II, Operation Research II, <br> Engineering Drawing |
+| Spring 2022/2023  | Operation Research I                                |
+| Fall 2022/2023    | Supply Chain Management                             |
 ___
 ## Experience
 ### A. Achievement
@@ -127,13 +135,13 @@ _(Scored “A” by Prof. Ir. Ririn Diar Astanti, M.MT., D.Eng. and Prof. Ir. Th
 
 __Postgraduate student: Multivariate Statistic Course__
 - Case study research on a dataset to find out something as a cause of something else using Structural Equation Model (SEM). <br>
-_(Scored by Dr. Ir. Yosephine Suharyanti, M.T.: 98 / 100)_
+_(Scored by Dr. Ir. Yosephine Suharyanti, M.T. : 98 / 100)_
 - Case study research on a dataset to determine the 
 differences between >= 2 groups/classifications on the dependent variable using Discriminant Analysis. <br>
-_(Scored by Dr. Ir. Yosephine Suharyanti, M.T.: 96.67 / 100)_
+_(Scored by Dr. Ir. Yosephine Suharyanti, M.T. : 96.67 / 100)_
 - Case study research on a dataset regarding the 
 relationship structure (in the form of factors) between many variables using Factor Analysis (Exploratory Factor Analysis & Confirmatory Factor Analysis). <br>
-_(Scored by Dr. Ir. Yosephine Suharyanti, M.T.: 94 / 100)_
+_(Scored by Dr. Ir. Yosephine Suharyanti, M.T. : 94 / 100)_
 
 
 ### D. Published Paper & Book Experience
