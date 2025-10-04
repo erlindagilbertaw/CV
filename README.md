@@ -9,7 +9,7 @@ ___
 
 ## Education
 | Year | Degree / Program | University / Institution | GPA |
-|:----:|-----------------|------------------------|:---:|
+|------|-----------------|------------------------|:---:|
 | 2025 – present | **PhD in Industrial Engineering & Enterprise Information** | Tunghai University (THU), Taiwan |   |
 | 2022 – 2023 | **Engineering Professional Program** | Universitas Katolik Indonesia Atma Jaya, Indonesia | GPA : 3.94 / 4.00 |
 | 2020 – 2021 | **Master of Industrial Engineering** | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia | GPA : 3.95 / 4.00 |
@@ -19,7 +19,7 @@ ___
 ## Experience
 ### A. Achievement
 | Year | Award / Achievement |
-|:----:|-------------------|
+|------|-------------------|
 | **2025** | Taiwan Ministry of Education (MOE) Elite Scholarship Awardee, PhD Tunghai University |
 | **2021** | Graduate with Cum Laude Predicate, Industrial Engineering Study Program, Master's Program, Faculty of Industrial Technology, UAJY |
 | **2021** | Graduates with the Best Predicate in the Faculty of Industrial Technology, UAJY |
@@ -27,7 +27,7 @@ ___
 
 ### B. Training, Workshop, and Guest Lecturer
 | **Year** | Achievement / Activity |
-|:----:|----------------------|
+|------|----------------------|
 | **2024** | Certified Trainer by The National Professional Certification Agency, Indonesia |
 | **2023** | Certified SOLIDWORKS Associate (CSWA) |
 | **2023** | Guest Lecture: Transformation of Mathematics Learning with Technology - Based in the Era of Independent Learning |
