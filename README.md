@@ -62,7 +62,7 @@ Universitas Katolik Santo Agustinus Hippo, Indonesia
     > - Leading the study program accreditation process, from the preparation stage of all documents to field assessment by the assessor team.
 
 - **2023: Project Leader of Landak Bersatu Foundation Project:** <br>
-Voice of Customers Survey Of High School Students GradeXII in West Kalimantan, Indonesia
+Voice of Customers Survey of Grade XII High School Students in West Kalimantan, Indonesia
     > Coordinating the preparation, implementation, and reporting of the Landak Bersatu Foundation’S big survey project:
     > - Determining school targets and PICs for each district/city in West Kalimantan;
     > - Creating SOP for Questionnaire Distribution;
