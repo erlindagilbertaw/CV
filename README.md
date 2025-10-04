@@ -8,31 +8,32 @@
 ___
 
 ## Education
-| Year | Degree / Program                                             | University / Institution                                   | GPA |
-|:--------------------:|--------------------------------------------------------------|-------------------------------------------------------------|------------------|
-| 2025 – present       | **PhD in Industrial Engineering and Enterprise Information**      | Tunghai University (THU), Taiwan                            | –                |
-| 2022 – 2023          | **Engineering Professional Program**                         | Universitas Katolik Indonesia Atma Jaya, Indonesia          | 3.94 / 4.00      |
-| 2019 – 2021          | **Master of Industrial Engineering**                            | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia          | 3.95 / 4.00      |
-| 2015 – 2019          | **Bachelor of Industrial Engineering**                          | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia          | 3.30 / 4.00      |
+| Year           | Degree / Program                                             | University / Institution                                  | GPA        |
+|----------------|-------------------------------------------------------------|-----------------------------------------------------------|------------|
+| 2025 – present | **PhD in Industrial Engineering and Enterprise Information** | Tunghai University (THU), Taiwan                          | –          |
+| 2022 – 2023    | **Engineering Professional Program**                         | Universitas Katolik Indonesia Atma Jaya, Indonesia        | GPA : 3.94 / 4.00|
+| 2019 – 2021    | **Master of Industrial Engineering**                         | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia       | GPA : 3.95 / 4.00|
+| 2015 – 2019    | **Bachelor of Industrial Engineering**                        | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia       | GPA : 3.30 / 4.00|
+
 
 ___
 ## Experience
 ### A. Achievement
-| Year | Achievement / Description |
-|-------|----------------------------|
-| **2025** | Taiwan MOE Elite Scholarship Awardee, PhD Tunghai University |
-| **2021** | Graduate with Cum Laude Predicate, Industrial Engineering Study Program, Master's Program, Faculty of Industrial Technology, UAJY |
-| **2021** | Graduated with the Best Predicate in the Faculty of Industrial Technology, UAJY |
-| **2021** | Earned Star Seller Badge for online shop on the Shopee E-commerce Platform within 6 months of business launch |
+| Year   | Achievement / Description                                                                                  |
+|--------|------------------------------------------------------------------------------------------------------------|
+| 2025   | Taiwan MOE Elite Scholarship Awardee, PhD Tunghai University                                              |
+| 2021   | Graduate with Cum Laude Predicate, Industrial Engineering Study Program, Master's Program, Faculty of Industrial Technology, UAJY |
+| 2021   | Graduated with the Best Predicate in the Faculty of Industrial Technology, UAJY                            |
+| 2021   | Earned Star Seller Badge for online shop on the Shopee E-commerce Platform within 6 months of business launch |
 
 ### B. Training, Workshop, and Guest Lecturer
-| Year | Certification / Activity |
-|------|--------------------------|
-| **2024** | Certified Trainer by The National Professional Certification Agency, Indonesia |
-| **2023** | Certified SOLIDWORKS Associate (CSWA) |
-| **2023** | Guest Lecture: Transformation of Mathematics Learning with Technology - Based in the Era of Independent Learning |
-| **2021** | Guest Speaker: Business Intelligence Workshop |
-| **2021** | Participant: “Data Science with Python” Course |
+| Year   | Certification / Activity                                                                                  |
+|--------|------------------------------------------------------------------------------------------------------------|
+| 2024   | Certified Trainer by The National Professional Certification Agency, Indonesia                            |
+| 2023   | Certified SOLIDWORKS Associate (CSWA)                                                                    |
+| 2023   | Guest Lecture: Transformation of Mathematics Learning with Technology - Based in the Era of Independent Learning |
+| 2021   | Guest Speaker: Business Intelligence Workshop                                                            |
+| 2021   | Participant: “Data Science with Python” Course                                                           |
 
 ### C. Working Experience
 - **2022 – present : Lecturer at Universitas Katolik Santo Agustinus Hippo, Indonesia**
