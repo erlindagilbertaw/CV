@@ -27,8 +27,8 @@ ___
 
 ### B. Training, Workshop, and Guest Lecturer
 | **Year** | Achievement / Activity |
-|----------|------------------------|
-| **2024** | Certified Trainer by The National Professional Certification Agency, Indonesia |
+|----------|-----------------------------------------------------------------------------------------------------------|
+| **2024** | Certified Trainer by The National Professional Certification Agency, Indonesia       |
 | **2023** | Certified SOLIDWORKS Associate (CSWA) |
 | **2023** | Guest Lecture: Transformation of Mathematics Learning with Technology - Based in the Era of Independent Learning |
 | **2021** | Guest Speaker: Business Intelligence Workshop |
