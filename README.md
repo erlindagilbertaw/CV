@@ -136,7 +136,7 @@ __Postgraduate student: Multivariate Statistic Course__
 _(Scored by Dr. Ir. Yosephine Suharyanti, M.T.: 98 / 100)_
 - Case study research on a dataset to determine the 
 differences between >= 2 groups/classifications on the dependent variable using Discriminant Analysis. <br>
-_(Scored by Dr. Ir. Yosephine Suharyanti, M.T.: 96,67 / 100)_
+_(Scored by Dr. Ir. Yosephine Suharyanti, M.T.: 96.67 / 100)_
 - Case study research on a dataset regarding the 
 relationship structure (in the form of factors) between many variables using Factor Analysis (Exploratory Factor Analysis & Confirmatory Factor Analysis). <br>
 _(Scored by Dr. Ir. Yosephine Suharyanti, M.T.: 94 / 100)_
