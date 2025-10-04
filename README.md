@@ -33,7 +33,7 @@ Faculty of Industrial Technology, UAJY
 - **2021 :** Earned Star Seller Badge for online shop on the Shopee E-commerce Platform within 6 months of business launch.
 
 ### 📚 Training, Workshop, & Guest Lecturer
-- **2023 :** Guest Lecture: Transformation of Mathematics Learning  with Technology - Based in the Era of Independent Learning.
+- **2023 :** Guest Lecturer: Transformation of Mathematics Learning  with Technology - Based in the Era of Independent Learning.
 - **2021 :** Guest Speaker: Business Intelligence Workshop.
 - **2021 :** Participant: “Data Science with Python” Course.
 
