@@ -7,6 +7,7 @@
 <erlindagilbertaw@gmail.com> <br>
 <https://www.instagram.com/erlinda_gilberta/?hl=en>
 
+>A young engineering lecturer in the field of Industrial Engineering. Became a pioneer in establishing a study program and was entrusted to be the head of the Logistics Engineering Study Program at a very young age. Scientific concentration interests: Business analytics, data mining, technopreneurship, e-commerce, Computer Aided Design, production scheduling, operations research. Pioneered and successfully run several businesses (animal foods and health, digital products, and laundry). A person who has the ambition to achieve something more than others. Be a longlife learner is my life's soul to become a shining star.
 ___
 ## Education
 | **Year** | **Degree**           | **University**               | **GPA** |
