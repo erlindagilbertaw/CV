@@ -119,10 +119,10 @@ ___
     > - Conducting stock opname.
 
 - **2019 - 2020 : Digital Marketing Associate of Computa Company**
-    > Responsible to create promotion planning and promotion content for the company Instagram accounts. I was required to make Instagram contents from all the ARTECH products (coworking space service(Artech Coworking Space), laser cutting and engraving products(Artech Laser), and hobby products(Artech Hobby)), every day with the specified quantity.
+    > <p align="justify"> Responsible to create promotion planning and promotion content for the company Instagram accounts. I was required to make Instagram contents from all the ARTECH products (coworking space service(Artech Coworking Space), laser cutting and engraving products(Artech Laser), and hobby products(Artech Hobby)), every day with the specified quantity. </p>
 
 - **2019 - 2020 : Owner - Manager of BOLBON Laundry & Perfume**
-    > Owns a laundry service & laundry perfume business. Managed sales & marketing planning, production planning, controlling the materials & finished goods inventory, ensuring the quality of our service & products, and managing the business finance.
+    > <p align="justify"> Owns a laundry service & laundry perfume business. Managed sales & marketing planning, production planning, controlling the materials & finished goods inventory, ensuring the quality of our service & products, and managing the business finance. </p>
 
 ### 📊 Research Experience
 __Postgraduate student : Artificial Intelligence Course__
