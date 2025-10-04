@@ -8,7 +8,7 @@
 ___
 
 ## Education
-| Year | Degree / Program | University / Institution | GPA |
+| **Year** | **Degree / Program** | **University** | **GPA** |
 |------|------------------|------------------------|-----|
 | 2025 – present | **PhD in Industrial Engineering & Enterprise Information** | Tunghai University (THU), Taiwan |   |
 | 2022 – 2023 | **Engineering Professional Program** | Universitas Katolik Indonesia Atma Jaya, Indonesia | GPA : 3.94 / 4.00 |
@@ -18,7 +18,7 @@ ___
 ___
 ## Experience
 ### A. Achievement
-|   Year   | Award / Achievement |
+|  **Year**   | **Award / Achievement** |
 |----------|---------------------|
 | **2025** | Taiwan Ministry of Education (MOE) Elite Scholarship Awardee, PhD Tunghai University |
 | **2021** | Graduate with Cum Laude Predicate, Industrial Engineering Study Program, Master's Program, Faculty of Industrial Technology, UAJY |
@@ -26,8 +26,8 @@ ___
 | **2021** | Earned Star Seller Badge for online shop on the Shopee E-commerce Platform within 6 months of business launch |
 
 ### B. Training, Workshop, and Guest Lecturer
-| **Year** | Achievement / Activity 
-|----------|---------------------------------------------------|
+| **Year** | **Achievement / Activity** 
+|----------|---------------------|
 | **2024** | Certified Trainer by The National Professional Certification Agency, Indonesia       |
 | **2023** | Certified SOLIDWORKS Associate (CSWA) |
 | **2023** | Guest Lecture: Transformation of Mathematics Learning with Technology - Based in the Era of Independent Learning |
