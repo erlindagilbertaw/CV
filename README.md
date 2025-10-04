@@ -1,10 +1,14 @@
 # Erlinda Gilberta Wibawa
 
-<img src="https://github.com/user-attachments/assets/1311dc05-d9e9-4e77-8042-d84b3be545dd" alt="Foto Erlinda" width="100"/>
 
-<erlindagilbertaw@gmail.com> <br>
-<https://www.instagram.com/erlinda_gilberta/?hl=en>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
+  <!-- Kolom Kiri: Foto & Kontak -->
+  <div style="flex: 0 0 150px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/1311dc05-d9e9-4e77-8042-d84b3be545dd" alt="Foto Erlinda" width="100"/>
+    <p><a href="mailto:erlindagilbertaw@gmail.com">erlindagilbertaw@gmail.com</a></p>
+    <p><a href="https://www.instagram.com/erlinda_gilberta/?hl=en" target="_blank">Instagram</a></p>
+  </div>
 
 <div style="text-align: justify;">
 ___
