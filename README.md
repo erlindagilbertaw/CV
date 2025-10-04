@@ -21,9 +21,7 @@ ___
 | Year | Achievement / Description |
 |:-----:|----------------------------|
 | **2025** | Taiwan MOE Elite Scholarship Awardee, PhD Tunghai University |
-| **2021** | Graduate with Cum Laude Predicate,  
-Industrial Engineering Study Program, Master's Program,  
-Faculty of Industrial Technology, UAJY |
+| **2021** | Graduate with Cum Laude Predicate, Industrial Engineering Study Program, Master's Program, Faculty of Industrial Technology, UAJY |
 | **2021** | Graduated with the Best Predicate in the Faculty of Industrial Technology, UAJY |
 | **2021** | Earned Star Seller Badge for online shop on the Shopee E-commerce Platform within 6 months of business launch |
 
