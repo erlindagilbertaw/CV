@@ -7,7 +7,8 @@
 <erlindagilbertaw@gmail.com> <br>
 <https://www.instagram.com/erlinda_gilberta/?hl=en>
 
->A young engineering lecturer in the field of Industrial Engineering. Became a pioneer in establishing a study program and was entrusted to be the head of the Logistics Engineering Study Program at a very young age. Scientific concentration interests: Business analytics, data mining, technopreneurship, e-commerce, Computer Aided Design, production scheduling, operations research. Pioneered and successfully run several businesses (animal foods and health, digital products, and laundry). A person who has the ambition to achieve something more than others. Be a longlife learner is my life's soul to become a shining star.
+
+><p align="justify"> A young engineering lecturer in the field of Industrial Engineering. Became a pioneer in establishing a study program and was entrusted to be the head of the Logistics Engineering Study Program at a very young age. Scientific concentration interests: Business analytics, data mining, technopreneurship, e-commerce, Computer Aided Design, production scheduling, operations research. Pioneered and successfully run several businesses (animal foods and health, digital products, and laundry). A person who has the ambition to achieve something more than others. Be a longlife learner is my life's soul to become a shining star. </p>
 
 ___
 ## Education
@@ -28,7 +29,7 @@ ___
 ### 🏆 Achievement
 
 | **Year** | **Achievement**               | **Certificate**    |
-|:----:|:---------------------------:|:-------------:|
+|:----:|:---------------------------|:-------------:|
 | 2025 | Taiwan Ministry of Education (MOE) Elite Scholarship Awardee, PhD Tunghai University | [see](https://drive.google.com/file/d/1uoZjCdcXACxwv58LyeKW48z_VQ-TGN0s/view?usp=drive_link) |
 | 2024 | Certified Trainer by The National Professional Certification Agency, Indonesia | [see](https://drive.google.com/file/d/1xXXjp6wzgY26X-gciQfNJbS3V8s5kDTz/view?usp=drive_link) |
 | 2023 | Certified SOLIDWORKS Associate (CSWA) | [see](https://drive.google.com/file/d/16RndXoF3g4PJ15E7nlGTWpn2_BmbzZwE/view?usp=drive_link) |
@@ -41,7 +42,7 @@ ___
 ### 📚 Training, Workshop, & Guest Lecturer
 
 | **Year** | **Role**            | **Title**               | **Certificate** |
-|:----:|:-----------------:|:---------------------:|:------------:|
+|:----:|:-----------------|:---------------------|:------------:|
 | 2023 | Guest Lecturer | Transformation of Mathematics Learning with Technology-Based in the Era of Independent Learning | [see](https://drive.google.com/file/d/1gcRYJvJ4dL6yHDgqdNO7fjFpb9--8w7s/view?usp=drive_link) |
 | 2021 | Guest Speaker | Business Intelligence Workshop | [see](https://drive.google.com/file/d/18dpkNv0FN_w8cxeMYtIF8zTiXw-vgYFZ/view?usp=drive_link) |
 | 2021 | Participant | Data Science with Python Course | [see](https://drive.google.com/file/d/1ZY1eqKmyzPeS7KgoNtJzy1cYe4K9MdMp/view?usp=drive_link) |
