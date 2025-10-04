@@ -8,12 +8,15 @@
 ___
 ## Education
 
-| Year              | Degree / Program                                             | University / Institution                                   | GPA          |
-|-----------------|--------------------------------------------------------------|-------------------------------------------------------------|------------|
-|   2025 – present  | **PhD in Industrial Engineering & Enterprise Information**      | Tunghai University (THU), Taiwan                            | –          |
-|   2022 – 2023     | **Engineering Professional Program**                         | Universitas Katolik Indonesia Atma Jaya, Indonesia          |  3.94 / 4.00  |
-|   2019 – 2021     | **Master of Industrial Engineering**                            | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia          |  3.95 / 4.00  |
-|   2015 – 2019     | **Bachelor of Industrial Engineering**                          | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia          |  3.30 / 4.00  |
+## 🎓 Education
+
+| Year&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Degree / Program                                             | University / Institution                                   | GPA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|:--------------------:|--------------------------------------------------------------|-------------------------------------------------------------|:----------------:|
+| 2025 – present       | **PhD in Industrial Engineering and Enterprise Information**      | Tunghai University (THU), Taiwan                            | –                |
+| 2022 – 2023          | **Engineering Professional Program**                         | Universitas Katolik Indonesia Atma Jaya, Indonesia          | 3.94 / 4.00      |
+| 2019 – 2021          | **Master of Industrial Engineering**                            | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia          | 3.95 / 4.00      |
+| 2015 – 2019          | **Bachelor of Industrial Engineering**                          | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia          | 3.30 / 4.00      |
+
 
 
 ___
