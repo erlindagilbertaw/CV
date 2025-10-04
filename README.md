@@ -37,7 +37,6 @@ Faculty of Industrial Technology, UAJY [see](https://drive.google.com/file/d/1On
 - **2020 :** 1st Winner of National Creative Video Competition with the theme "Healthy Farming, Towards Family Food Independence" by Caping Merapi [see](https://drive.google.com/file/d/1yenmvwluvTab3iz9qkmhqUqovM4t65D5/view?usp=drive_link)
 
 ### 📚 Training, Workshop, & Guest Lecturer
-## Training, Workshop, and Guest Lecturer
 
 | **Year** | **Role**            | **Title**               | **Certificate** |
 |:----:|-----------------|---------------------|:------------:|
