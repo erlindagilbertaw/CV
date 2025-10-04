@@ -12,30 +12,30 @@ ___
 Tunghai University (THU), Taiwan
 - **2022 – 2023 : Engineering Professional Program** <br>
 Universitas Katolik Indonesia Atma Jaya , Indonesia <br>
-GPA : 3.94 / 4.00
+GPA : 3.94 / 4.00 [see](https://drive.google.com/file/d/1rJMWgOw_5HCQ41_FIqEP83BnUzWRc4dC/view?usp=drive_link)
 - **2019 – 2021 : Master of Industrial Engineering** <br>
 Universitas Atma Jaya Yogyakarta (UAJY), Indonesia <br>
-GPA : 3.95 / 4.00
+GPA : 3.95 / 4.00 [see](https://drive.google.com/file/d/1Pi7TWXOCHsmY4kggIjGXRMa9oTBFRvN8/view?usp=drive_link)
 - **2015 – 2019 : Bachelor of Industrial Engineering** <br>
 Universitas Atma Jaya Yogyakarta (UAJY), Indonesia <br>
-GPA : 3.30 / 4.00
+GPA : 3.30 / 4.00 [see](https://drive.google.com/file/d/1zPcNxiwhv4hrbDev5e6Q8COg5TJiXi6H/view?usp=drive_link)
 
 ___
 ## Experience
 ### 🏆 Achievement
-- **2025 :** Taiwan Ministry of Education (MOE) Elite Scholarship Awardee, PhD Tunghai University
-- **2024 :** Certified Trainer by The National Professional Certification Agency, Indonesia.
-- **2023 :** Certified SOLIDWORKS Associate (CSWA).
+- **2025 :** Taiwan Ministry of Education (MOE) Elite Scholarship Awardee, PhD Tunghai University [see](https://drive.google.com/file/d/1uoZjCdcXACxwv58LyeKW48z_VQ-TGN0s/view?usp=drive_link)
+- **2024 :** Certified Trainer by The National Professional Certification Agency, Indonesia [see](https://drive.google.com/file/d/1xXXjp6wzgY26X-gciQfNJbS3V8s5kDTz/view?usp=drive_link)
+- **2023 :** Certified SOLIDWORKS Associate (CSWA) [see](https://drive.google.com/file/d/16RndXoF3g4PJ15E7nlGTWpn2_BmbzZwE/view?usp=drive_link)
 - **2021 :** Graduate with Cum Laude Predicate,
 Industrial Engineering Study Program, Master's Program,
-Faculty of Industrial Technology, UAJY
-- **2021 :** Graduates with the Best Predicate in the Faculty  of Industrial Technology, UAJY
+Faculty of Industrial Technology, UAJY [see](https://drive.google.com/file/d/1OnEYto6IWkVWaEGiAot_f6txz12vbdpQ/view?usp=drive_link)
+- **2021 :** Graduates with the Best Predicate in the Faculty  of Industrial Technology, UAJY [see](https://drive.google.com/file/d/1_memZS0G9JTH430-WTPy6A4teUL-49bl/view?usp=drive_link)
 - **2021 :** Earned Star Seller Badge for online shop on the Shopee E-commerce Platform within 6 months of business launch.
 
 ### 📚 Training, Workshop, & Guest Lecturer
-- **2023 :** Guest Lecturer: Transformation of Mathematics Learning  with Technology - Based in the Era of Independent Learning.
-- **2021 :** Guest Speaker: Business Intelligence Workshop.
-- **2021 :** Participant: “Data Science with Python” Course.
+- **2023 :** Guest Lecturer: Transformation of Mathematics Learning  with Technology - Based in the Era of Independent Learning [see](https://drive.google.com/file/d/1gcRYJvJ4dL6yHDgqdNO7fjFpb9--8w7s/view?usp=drive_link)
+- **2021 :** Guest Speaker: Business Intelligence Workshop [see](https://drive.google.com/file/d/18dpkNv0FN_w8cxeMYtIF8zTiXw-vgYFZ/view?usp=drive_link)
+- **2021 :** Participant: “Data Science with Python” Course [see](https://drive.google.com/file/d/1ZY1eqKmyzPeS7KgoNtJzy1cYe4K9MdMp/view?usp=drive_link)
 
 ### 👩‍🏫 Working Experience
 - **2022 – present : Lecturer at Universitas Katolik Santo Agustinus Hippo, Indonesia**
@@ -141,8 +141,10 @@ _(Scored by Dr. Ir. Yosephine Suharyanti, M.T. : 94 / 100)_
 
 
 ### 📝 Published Paper & Book Experience
->[Wibawa, Erlinda G., Ai, T. J., Astanti, R. D., & Dewa, P. K. D. 2024. _Production Planning and Control System_. Yogyakarta: Deepublish.](https://deepublishstore.com/produk/buku-sistem-perencanaan-dan-pengendalian-produksi/?srsltid=AfmBOoqweuQu13Qz9mf3J1HjC3i0GqwZ45uNEd2NL35NrvRkVIBnPn-E)
+>[Wibawa, Erlinda G., Ai, T. J., Astanti, R. D., & Dewa, P. K. D. 2024. _Production Planning and Control System_. Yogyakarta: Deepublish.](https://deepublishstore.com/produk/buku-sistem-perencanaan-dan-pengendalian-produksi/?srsltid=AfmBOoqweuQu13Qz9mf3J1HjC3i0GqwZ45uNEd2NL35NrvRkVIBnPn-E) [see](https://drive.google.com/file/d/1hebDhqfWbBg08b1wJdSF2WnC3yYb8QMI/view?usp=drive_link)
 
 > [Wibawa, Erlinda G. & Dewa, Parama. (2024). Boarding House Property Market Trends and Investor Preferences in Boarding House Development: A Comparative Study with Web Scraping. *Jurnal Rekayasa Industri (JRI)*. 6. 85-99. 10.37631/jri.v6i1.1379.](https://ejournal.widyamataram.ac.id/index.php/JRI/article/view/1379/545)
 
-> [Wibawa, Erlinda G. & Dewa, Parama. (2021).Restaurant Business Insights based on Zomato Online Food Marketplace Big Data Scraping. *Proceedings of the Second Asia Pacific International Conference on Industrial Engineering and Operations Management*. 3904 - 3915.](https://ieomsociety.org/proceedings/2021indonesia/647.pdf)
+> [Giovani, W., Anugrarista, E., Selong, Y., Wibawa, E., Ayu, E. N. 2023. Khasanah Makanan Lokal Kalimantan Barat (West Kalimantan Local Food Treasures). Bandung: Media Sains Indonesia ](https://kubuku.id/detail/khasanah-makanan-lokal-kalimantan-barat/111178) [see](https://drive.google.com/file/d/1kNLkYEOQtXPaNhDfwySNKO5O4v-SgiY4/view?usp=drive_link)
+
+> [Wibawa, Erlinda G. & Dewa, Parama. (2021). Restaurant Business Insights based on Zomato Online Food Marketplace Big Data Scraping. *Proceedings of the Second Asia Pacific International Conference on Industrial Engineering and Operations Management*. 3904 - 3915.](https://ieomsociety.org/proceedings/2021indonesia/647.pdf)
