@@ -8,22 +8,18 @@
 ___
 
 ## Education
-| Year          | Degree / Program                                   | University / Institution                                   | GPA        |
-|---------------|---------------------------------------------------|------------------------------------------------------------|-----------|
-| 2025 – present| **PhD in Industrial Engineering & Enterprise Information** | Tunghai University (THU), Taiwan                            | –         |
-| 2022 – 2023   | **Engineering Professional Program**              | Universitas Katolik Indonesia Atma Jaya, Indonesia         | 3.94/4.00 |
-| 2019 – 2021   | **Master in Industrial Engineering**              | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia         | 3.95/4.00 |
-| 2015 – 2019   | **Bachelor in Industrial Engineering**            | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia         | 3.30/4.00 |
+- **2025 - present : PhD Industrial Engineering & Enterprise Information** <br>
+Tunghai University (THU), Taiwan
+- **2022 – 2023 : Engineering Professional Program** <br>
+Universitas Katolik Indonesia Atma Jaya , Indonesia <br>
+GPA : 3.94 / 4.00
+- **2019 – 2021 : Master Industrial Engineering** <br>
+Universitas Atma Jaya Yogyakarta (UAJY), Indonesia <br>
+GPA : 3.95 / 4.00
+- **2015 – 2019 : Bachelor Industrial Engineering** <br>
+Universitas Atma Jaya Yogyakarta (UAJY), Indonesia <br>
+GPA : 3.30 / 4.00
 
-|          **Semester**  | **Courses Taught**                                      |
-|-------------------|----------------------------------------------------|
-| 2025 – present    | Tunghai University (THU), Taiwan |
-| 2022 – 2023       | Universitas Katolik Indonesia Atma Jaya, Indonesia           |
-| 2019 – 2021       | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia     |
-| 2015 – 2019       | Universitas Atma Jaya Yogyakarta (UAJY), Indonesia                                  |
-| Fall 2023/2024    | Statistics II, Operation Research II, <br> Engineering Drawing |
-| Spring 2022/2023  | Operation Research I                                |
-| Fall 2022/2023    | Supply Chain Management                             |
 ___
 ## Experience
 ### A. Achievement
