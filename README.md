@@ -20,8 +20,8 @@ ___
 ## Experience
 ### A. Achievement
 - **2025 :** Taiwan Ministry of Education (MOE) Elite Scholarship Awardee, PhD Tunghai University
-- **2021 :** Graduate with Cum Laude Predicate, <br>
-Industrial Engineering Study Program, Master's Program, <br>
+- **2021 :** Graduate with Cum Laude Predicate,
+Industrial Engineering Study Program, Master's Program,
 Faculty of Industrial Technology, UAJY
 - **2021 :** Graduates with the Best Predicate in the Faculty  of Industrial Technology, UAJY
 - **2021 :** Earned Star Seller Badge for online shop on the Shopee E-commerce Platform within 6 months of business launch.
@@ -60,7 +60,7 @@ Faculty of Industrial Technology, UAJY
     > - Collaborate with various parties (universities and companies) to improve the competency of study program students; <br>
     > - Leading the study program accreditation process, from the preparation stage of all documents to field assessment by the assessor team.
 
-- **2023: Project Leader of Landak Bersatu Foundation Project:** <br>
+- **2023: Project Leader of Landak Bersatu Foundation Project**
     > Coordinating the preparation, implementation, and reporting of the Landak Bersatu Foundation’S big survey project "Voice of Customers Survey of Grade XII High School Students in West Kalimantan, Indonesia" :
     > - Determining school targets and PICs for each district/city in West Kalimantan;
     > - Creating SOP for Questionnaire Distribution;
@@ -69,7 +69,7 @@ Faculty of Industrial Technology, UAJY
     > - Analyzing survey data;
     > - Creating a survey report.
 
-- **2021: Coordinator of Logistics Engineering Study Program**, <br>
+- **2021: Coordinator of Logistics Engineering Study Program** <br>
 **Universitas Katolik Santo Agustinus Hippo, Indonesia**
     > Formulating The Curriculum Documents for the Logistics Engineering Study Program for the application for the establishment of Universitas Katolik Santo Agustinus Hippo. The formulation of the Curriculum Documents includes:
     > - Uniqueness or Excellence of the Study Program;
@@ -79,7 +79,7 @@ Faculty of Industrial Technology, UAJY
     > - Semester Learning Plan of the courses;
     > - Implementation Plan for the Independent Learning Program (Indonesian Ministry of Education program for universities)
 
-- **2021 - 2022: Owner - Manager of an online shop in Shopee E-commerce Platform** <br>
+- **2021 - 2022: Owner - Manager of an online shop in Shopee E-commerce Platform**
     > Starting an online retail business in Shopee online shop platform since February 2021. Selling various vitamins & medicines for human & animal health and various seeds (BOLBON Garden), toner and cartridges (BOLBON Tech), and kite strings (Toko Layangan Bintang Timur). <br>
     [BOLBON](https://shopee.co.id/bolbon_garden) successed in getting the title of Star-Seller store within 6 months. But finally at the end of 2022 BOLBON was forced to close because I was accepted to work as a lecturer on a different island and no one could handle my online shop. After 2 years of not operating, BOLBON reopened in May 2024 as an online shop that focuses on animal foods and health (BOLBON Pet Shop) and digital products: e-stampes (BOLBON Digital). The operations of this online shop business from the beginning until now handled by myself, starting from:
     > - Market research;
@@ -94,7 +94,7 @@ Faculty of Industrial Technology, UAJY
     > - Customer & supplier relationship management;
     > - Until the engagement rate optimization. 
 
-- **2021: Assistat Manager of Ceplok Telor Babarsari Restaurant** <br>
+- **2021: Assistat Manager of Ceplok Telor Babarsari Restaurant**
     > - Handle and receive all complaints and feedback from customers.
     > - Provide regular reports on employee salaries & operating costs to the owner of Ceplok Telor Jogja.
     > - Terminate and recruit employees according to the needs and circumstances of the outlet.
@@ -102,15 +102,14 @@ Faculty of Industrial Technology, UAJY
     > - Make employee shift scheduling.
     > - Conducting stock opname.
 
-- **2019 - 2020: Digital Marketing Associate of Computa Company**, <br>
+- **2019 - 2020: Digital Marketing Associate of Computa Company**
     > Responsible to create promotion planning and promotion content for the company Instagram accounts. I was required to make Instagram contents from all the ARTECH products (coworking space service(Artech Coworking Space), laser cutting and engraving products(Artech Laser), and hobby products(Artech Hobby)), every day with the specified quantity.
 
-- **2019 - 2020: Owner - Manager of BOLBON Laundry & Perfume**, <br>
+- **2019 - 2020: Owner - Manager of BOLBON Laundry & Perfume**
     > Owns a laundry service & laundry perfume business. Managed sales & marketing planning, production planning, controlling the materials & finished goods inventory, ensuring the quality of our service & products, and managing the business finance.
 
 ### D. Research Experience
 __Postgraduate student: Artificial Intelligence Course__
-
 - Case study research on a banking institution dataset to determine the accuracy of the classification of clients who have subscribed to deposits compared to those who have not subscribed to deposits using Support Vector Machines (SVM). <br>
 _(Scored “A” by Prof. Ir. Ririn Diar Astanti, M.MT., D.Eng. and Prof. Ir. The Jin Ai, M.T., D.Eng.)_
 - Reinforcement Learning Case Study Research for 
