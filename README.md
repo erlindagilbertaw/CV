@@ -152,10 +152,10 @@ _(Scored by Dr. Ir. Yosephine Suharyanti, M.T. : 94 / 100)_
 
 
 ### 📝 Published Paper & Book Experience
->[Wibawa, Erlinda G., Ai, T. J., Astanti, R. D., & Dewa, P. K. D. 2024. _Production Planning and Control System_. Yogyakarta: Deepublish.](https://deepublishstore.com/produk/buku-sistem-perencanaan-dan-pengendalian-produksi/?srsltid=AfmBOoqweuQu13Qz9mf3J1HjC3i0GqwZ45uNEd2NL35NrvRkVIBnPn-E) [see](https://drive.google.com/file/d/1hebDhqfWbBg08b1wJdSF2WnC3yYb8QMI/view?usp=drive_link)
+>[Wibawa, Erlinda G., Ai, T. J., Astanti, R. D., & Dewa, P. K. D. 2024. _Perencanaan dan Pengendalian Produksi (Production Planning and Control System)_. Yogyakarta: Deepublish.](https://deepublishstore.com/produk/buku-sistem-perencanaan-dan-pengendalian-produksi/?srsltid=AfmBOoqweuQu13Qz9mf3J1HjC3i0GqwZ45uNEd2NL35NrvRkVIBnPn-E) [see](https://drive.google.com/file/d/1hebDhqfWbBg08b1wJdSF2WnC3yYb8QMI/view?usp=drive_link)
 
 > [Wibawa, Erlinda G. & Dewa, Parama. (2024). Boarding House Property Market Trends and Investor Preferences in Boarding House Development: A Comparative Study with Web Scraping. *Jurnal Rekayasa Industri (JRI)*. 6. 85-99. 10.37631/jri.v6i1.1379.](https://ejournal.widyamataram.ac.id/index.php/JRI/article/view/1379/545)
 
-> [Giovani, W., Anugrarista, E., Selong, Y., Wibawa, E., Ayu, E. N. 2023. Khasanah Makanan Lokal Kalimantan Barat (West Kalimantan Local Food Treasures). Bandung: Media Sains Indonesia ](https://kubuku.id/detail/khasanah-makanan-lokal-kalimantan-barat/111178) [see](https://drive.google.com/file/d/1kNLkYEOQtXPaNhDfwySNKO5O4v-SgiY4/view?usp=drive_link)
+> [Giovani, W., Anugrarista, E., Selong, Y., Wibawa, E., Ayu, E. N. 2023. _Khasanah Makanan Lokal Kalimantan Barat (West Kalimantan Local Food Treasures)_. Bandung: Media Sains Indonesia ](https://kubuku.id/detail/khasanah-makanan-lokal-kalimantan-barat/111178) [see](https://drive.google.com/file/d/1kNLkYEOQtXPaNhDfwySNKO5O4v-SgiY4/view?usp=drive_link)
 
 > [Wibawa, Erlinda G. & Dewa, Parama. (2021). Restaurant Business Insights based on Zomato Online Food Marketplace Big Data Scraping. *Proceedings of the Second Asia Pacific International Conference on Industrial Engineering and Operations Management*. 3904 - 3915.](https://ieomsociety.org/proceedings/2021indonesia/647.pdf)
