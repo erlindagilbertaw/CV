@@ -36,24 +36,17 @@ ___
 
 ### C. Working Experience
 - **2022 – present : Lecturer at Universitas Katolik Santo Agustinus Hippo, Indonesia**
-    -  Fall Intake 2025/2026 :
-        - Operation Research II
-        - Industrial Internship Program
-    - Spring Intake 2024/2025 :
-        - Operation Research I
-        - Production System
-    - Fall Intake 2024/2025 :
-        - Statistics II
-        - Industrial Internship Program
-    - Spring Intake 2023/2024 : Production System
-    - Fall Intake 2024/2025 <br> 
-Fall Intake 2023/2024 : 
-        - Statistics II
-        - Operation Research II
-    - Fall Intake 2023/2024 : Engineering Drawing
-    - Spring Intake 2022/2023 <br>
-Spring Intake 2022/2023 : Operation Research I
-    - Fall Intake 2022/2023 : Supply Chain Management
+
+    > | Intake / Semester  | Courses Taught                                      |
+    > |-------------------|----------------------------------------------------|
+    > | Fall 2025/2026    | Operation Research II, <br> Industrial Internship Program |
+    > | Spring 2024/2025  | Operation Research I, <br> Production System           |
+    > | Fall 2024/2025    | Statistics II, <br> Industrial Internship Program     |
+    > | Spring 2023/2024  | Production System                                  |
+    > | Fall 2023/2024    | Statistics II, <br> Operation Research II, <br> Engineering Drawing |
+    > | Spring 2022/2023  | Operation Research I                                |
+    > | Fall 2022/2023    | Supply Chain Management                             |
+
 
 - **2022 – 2025 : Head of Logistics Engineering Study Program** <br>
 Universitas Katolik Santo Agustinus Hippo, Indonesia
