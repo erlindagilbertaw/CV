@@ -1,6 +1,8 @@
 # Erlinda Gilberta Wibawa
 
-<img src="https://github.com/user-attachments/assets/1311dc05-d9e9-4e77-8042-d84b3be545dd" alt="Foto Erlinda" width="100"/>
+  <img src="https://github.com/user-attachments/assets/1311dc05-d9e9-4e77-8042-d84b3be545dd" 
+       alt="Foto Erlinda" 
+       width="120">
 
 <erlindagilbertaw@gmail.com> <br>
 <https://www.instagram.com/erlinda_gilberta/?hl=en>
