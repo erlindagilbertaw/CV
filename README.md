@@ -140,7 +140,7 @@ _(Scored “A” by Prof. Ir. Ririn Diar Astanti, M.MT., D.Eng. and Prof. Ir. Th
 results (whether the animal is Adopted / Died / Disposal / Euthanasia / Missing / Return to Owner / Return to Adopt / Transfer) based on the animal's intake background (Fertilization & Age). With this Decision Tree, it is hoped that Animal Shelters will focus more of their energy on improving sterilization programs to increase adoption rates & avoid euthanasia. <br>
 _(Scored “A” by Prof. Ir. Ririn Diar Astanti, M.MT., D.Eng. and Prof. Ir. The Jin Ai, M.T., D.Eng.)_
 
-__Postgraduate student : Multivariate Statistic Course__
+__Postgraduate student : Multivariate Statistics Course__
 - Case study research on a dataset to find out something as a cause of something else using Structural Equation Model (SEM). <br>
 _(Scored by Dr. Ir. Yosephine Suharyanti, M.T. : 98 / 100)_
 - Case study research on a dataset to determine the 
