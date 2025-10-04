@@ -5,9 +5,10 @@
 <erlindagilbertaw@gmail.com> <br>
 <https://www.instagram.com/erlinda_gilberta/?hl=en>
 
-<div style="text-align: justify;">
 
+<div style="text-align: justify;">
 ___
+
 ## Education
 | Year&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Degree / Program                                             | University / Institution                                   | GPA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |:--------------------:|--------------------------------------------------------------|-------------------------------------------------------------|:----------------:|
