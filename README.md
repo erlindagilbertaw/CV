@@ -7,17 +7,17 @@
 
 ___
 ## Education
-- **2025 - present : PhD Industrial Engineering & Enterprise Information**, <br>
+- **2025 - present : PhD Industrial Engineering & Enterprise Information** <br>
 Tunghai University (THU), Taiwan
-- **2022 – 2023 : Engineering Professional Program**, <br>
+- **2022 – 2023 : Engineering Professional Program** <br>
 Universitas Katolik Indonesia Atma Jaya , Indonesia <br>
-3.94 / 4.00
+GPA : 3.94 / 4.00
 - **2019 – 2021 : Master Industrial Engineering** <br>
 Universitas Atma Jaya Yogyakarta (UAJY), Indonesia <br>
-3.95 / 4.00
+GPA : 3.95 / 4.00
 - **2015 – 2019 : Bachelor Industrial Engineering** <br>
 Universitas Atma Jaya Yogyakarta (UAJY), Indonesia <br>
-3.30 / 4.00
+GPA : 3.30 / 4.00
 
 ___
 ## Experience
@@ -31,11 +31,11 @@ Faculty of Industrial Technology, UAJY
 - **2021 :** Star - Seller badge online shop within 6 months.
 
 ### B. Training, Workshop, and Guest Lecturer
-- **2024:** Certified Trainer by The National Professional Certification Agency, Indonesia.
-- **2023:** Certified SOLIDWORKS Associate (CSWA).
-- **2023:** Guest Lecture: Transformation of Mathematics Learning  with Technology - Based in the Era of Independent Learning.
-- **2021:** Guest Speaker: Business Intelligence Workshop.
-- **2021:** Participant: “Data Science with Python” Course.
+- **2024 :** Certified Trainer by The National Professional Certification Agency, Indonesia.
+- **2023 :** Certified SOLIDWORKS Associate (CSWA).
+- **2023 :** Guest Lecture: Transformation of Mathematics Learning  with Technology - Based in the Era of Independent Learning.
+- **2021 :** Guest Speaker: Business Intelligence Workshop.
+- **2021 :** Participant: “Data Science with Python” Course.
 
 ### C. Working Experience
 - **2022 – present : Lecturer at Universitas Katolik Santo Agustinus Hippo, Indonesia**
@@ -46,6 +46,7 @@ Faculty of Industrial Technology, UAJY
     5. Operation Research II
     6. Engineering Drawing
     7. Supply Chain Management
+
 - **2022 – 2025 : Head of Logistics Engineering Study Program** <br>
 Universitas Katolik Santo Agustinus Hippo, Indonesia
     > - Carrying out teaching, research, and community service; <br>
@@ -79,11 +80,9 @@ Universitas Katolik Santo Agustinus Hippo, Indonesia
     > - Semester Learning Plan of the courses;
     > - Implementation Plan for the Independent Learning Program (Indonesian Ministry of Education program for universities)
 
-
 - **2021 - 2022: Owner - Manager of an online shop in Shopee E-commerce Platform** <br>
-https://shopee.co.id/bolbon_garden
     > Starting an online retail business in Shopee online shop platform since February 2021. Selling various vitamins & medicines for human & animal health and various seeds (BOLBON Garden), toner and cartridges (BOLBON Tech), and kite strings (Toko Layangan Bintang Timur). <br>
-    BOLBON successed in getting the title of Star-Seller store within 6 months. But finally at the end of 2022 BOLBON was forced to close because I was accepted to work as a lecturer on a different island and no one could handle my online shop. After 2 years of not operating, BOLBON reopened in May 2024 as an online shop that focuses on animal foods and health (BOLBON Pet Shop) and digital products: e-stampes (BOLBON Digital). The operations of this online shop business from the beginning until now handled by myself, starting from:
+    [BOLBON](https://shopee.co.id/bolbon_garden) successed in getting the title of Star-Seller store within 6 months. But finally at the end of 2022 BOLBON was forced to close because I was accepted to work as a lecturer on a different island and no one could handle my online shop. After 2 years of not operating, BOLBON reopened in May 2024 as an online shop that focuses on animal foods and health (BOLBON Pet Shop) and digital products: e-stampes (BOLBON Digital). The operations of this online shop business from the beginning until now handled by myself, starting from:
     > - Market research;
     > - Product development;
     > - Products photography;
@@ -132,12 +131,8 @@ differences between >= 2 groups/classifications on the dependent variable using 
 relationship structure (in the form of factors) between many variables using Factor Analysis (Exploratory Factor Analysis & Confirmatory Factor Analysis).
 
 ### D. Published Paper & Book Experience
->Wibawa, Erlinda G., Ai, T. J., Astanti, R. D., & Dewa, P. K. D. 2024. _Production Planning and Control System_. Yogyakarta: Deepublish.
-[see](https://deepublishstore.com/produk/buku-sistem-perencanaan-dan-pengendalian-produksi/?srsltid=AfmBOoqweuQu13Qz9mf3J1HjC3i0GqwZ45uNEd2NL35NrvRkVIBnPn-E)
+>[Wibawa, Erlinda G., Ai, T. J., Astanti, R. D., & Dewa, P. K. D. 2024. _Production Planning and Control System_. Yogyakarta: Deepublish.](https://deepublishstore.com/produk/buku-sistem-perencanaan-dan-pengendalian-produksi/?srsltid=AfmBOoqweuQu13Qz9mf3J1HjC3i0GqwZ45uNEd2NL35NrvRkVIBnPn-E)
 
-> Wibawa, Erlinda G. & Dewa, Parama. (2024). Boarding House Property Market Trends and Investor Preferences in Boarding House Development: A Comparative Study with Web Scraping. *Jurnal Rekayasa Industri (JRI)*. 6. 85-99. 10.37631/jri.v6i1.1379.
-[see](https://ejournal.widyamataram.ac.id/index.php/JRI/article/view/1379/545)
+> [Wibawa, Erlinda G. & Dewa, Parama. (2024). Boarding House Property Market Trends and Investor Preferences in Boarding House Development: A Comparative Study with Web Scraping. *Jurnal Rekayasa Industri (JRI)*. 6. 85-99. 10.37631/jri.v6i1.1379.](https://ejournal.widyamataram.ac.id/index.php/JRI/article/view/1379/545)
 
-
-> Wibawa, Erlinda G. & Dewa, Parama. (2021).Restaurant Business Insights based on Zomato Online Food Marketplace Big Data Scraping. *Proceedings of the Second Asia Pacific International Conference on Industrial Engineering and Operations Management*. 3904 - 3915.
-[see](https://ieomsociety.org/proceedings/2021indonesia/647.pdf)
+> [Wibawa, Erlinda G. & Dewa, Parama. (2021).Restaurant Business Insights based on Zomato Online Food Marketplace Big Data Scraping. *Proceedings of the Second Asia Pacific International Conference on Industrial Engineering and Operations Management*. 3904 - 3915.](https://ieomsociety.org/proceedings/2021indonesia/647.pdf)
