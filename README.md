@@ -11,7 +11,7 @@ ___
 ## Education
 ## Education
 
-| Year | Degree / Program | University / Institution | GPA |
+| Year | Degree / Program | University              New CV | GPA |
 |------|-----------------|-------------------------|-----|
 | 2025 – present | **PhD in Industrial Engineering & Enterprise Information** | Tunghai University (THU), Taiwan | – |
 | 2022 – 2023 | **Engineering Professional Program** | Universitas Katolik Indonesia Atma Jaya, Indonesia | 3.94 / 4.00 [see](https://drive.google.com/file/d/1rJMWgOw_5HCQ41_FIqEP83BnUzWRc4dC/view?usp=drive_link) |
