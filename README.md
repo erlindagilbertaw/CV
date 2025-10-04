@@ -26,8 +26,6 @@ ___
 | **2021** | Earned **Star Seller Badge** for online shop on the Shopee E-commerce Platform within 6 months of business launch |
 
 ### B. Training, Workshop, and Guest Lecturer
-## 📜 Certifications & Activities
-
 | Year | Certification / Activity |
 |:----:|--------------------------|
 | **2024** | Certified Trainer by The National Professional Certification Agency, Indonesia |
