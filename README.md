@@ -21,9 +21,11 @@ ___
 | Year | Achievement / Description |
 |:-----:|----------------------------|
 | **2025** | Taiwan MOE Elite Scholarship Awardee, PhD Tunghai University |
-| **2021** | Graduate with **Cum Laude** Predicate,<br>Industrial Engineering Study Program, Master's Program,<br>Faculty of Industrial Technology, UAJY |
-| **2021** | Graduated with the **Best Predicate** in the Faculty of Industrial Technology, UAJY |
-| **2021** | Earned **Star Seller Badge** for online shop on the Shopee E-commerce Platform within 6 months of business launch |
+| **2021** | Graduate with Cum Laude Predicate,  
+Industrial Engineering Study Program, Master's Program,  
+Faculty of Industrial Technology, UAJY |
+| **2021** | Graduated with the Best Predicate in the Faculty of Industrial Technology, UAJY |
+| **2021** | Earned Star Seller Badge for online shop on the Shopee E-commerce Platform within 6 months of business launch |
 
 ### B. Training, Workshop, and Guest Lecturer
 | Year | Certification / Activity |
@@ -39,11 +41,11 @@ ___
 
     > | Intake / Semester  | Courses Taught                                      |
     > |-------------------|----------------------------------------------------|
-    > | Fall 2025/2026    | Operation Research II, <br> Industrial Internship Program |
-    > | Spring 2024/2025  | Operation Research I, <br> Production System           |
-    > | Fall 2024/2025    | Statistics II, <br> Industrial Internship Program     |
+    > | Fall 2025/2026    | Operation Research II, Industrial Internship Program |
+    > | Spring 2024/2025  | Operation Research I, Production System           |
+    > | Fall 2024/2025    | Statistics II, Industrial Internship Program     |
     > | Spring 2023/2024  | Production System                                  |
-    > | Fall 2023/2024    | Statistics II, <br> Operation Research II, <br> Engineering Drawing |
+    > | Fall 2023/2024    | Statistics II, Operation Research II, <br> Engineering Drawing |
     > | Spring 2022/2023  | Operation Research I                                |
     > | Fall 2022/2023    | Supply Chain Management                             |
 
