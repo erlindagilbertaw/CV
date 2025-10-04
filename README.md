@@ -26,17 +26,16 @@ GPA : 3.30 / 4.00 [see](https://drive.google.com/file/d/1zPcNxiwhv4hrbDev5e6Q8CO
 ___
 ## Experience
 ### 🏆 Achievement
-## 🏆 Achievements
 
 | Year | Achievement / Description | Proof / Link |
 |:----:|:---------------------------|:-------------|
-| 2025 | **Taiwan Ministry of Education (MOE) Elite Scholarship Awardee**, PhD Tunghai University | [see](https://drive.google.com/file/d/1uoZjCdcXACxwv58LyeKW48z_VQ-TGN0s/view?usp=drive_link) |
-| 2024 | **Certified Trainer** by The National Professional Certification Agency, Indonesia | [see](https://drive.google.com/file/d/1xXXjp6wzgY26X-gciQfNJbS3V8s5kDTz/view?usp=drive_link) |
-| 2023 | **Certified SOLIDWORKS Associate (CSWA)** | [see](https://drive.google.com/file/d/16RndXoF3g4PJ15E7nlGTWpn2_BmbzZwE/view?usp=drive_link) |
-| 2021 | **Graduate with Cum Laude Predicate**, Industrial Engineering Master’s Program, Faculty of Industrial Technology, UAJY | [see](https://drive.google.com/file/d/1OnEYto6IWkVWaEGiAot_f6txz12vbdpQ/view?usp=drive_link) |
-| 2021 | **Graduate with the Best Predicate** in the Faculty of Industrial Technology, UAJY | [see](https://drive.google.com/file/d/1_memZS0G9JTH430-WTPy6A4teUL-49bl/view?usp=drive_link) |
-| 2021 | **Earned Star Seller Badge** for online shop on the Shopee E-commerce Platform within 6 months of business launch | – |
-| 2020 | **1st Winner of National Creative Video Competition**, theme: “Healthy Farming, Towards Family Food Independence” by Caping Merapi | [see](https://drive.google.com/file/d/1yenmvwluvTab3iz9qkmhqUqovM4t65D5/view?usp=drive_link) |
+| 2025 | Taiwan Ministry of Education (MOE) Elite Scholarship Awardee, PhD Tunghai University | [see](https://drive.google.com/file/d/1uoZjCdcXACxwv58LyeKW48z_VQ-TGN0s/view?usp=drive_link) |
+| 2024 | *Certified Trainer by The National Professional Certification Agency, Indonesia | [see](https://drive.google.com/file/d/1xXXjp6wzgY26X-gciQfNJbS3V8s5kDTz/view?usp=drive_link) |
+| 2023 | Certified SOLIDWORKS Associate (CSWA) | [see](https://drive.google.com/file/d/16RndXoF3g4PJ15E7nlGTWpn2_BmbzZwE/view?usp=drive_link) |
+| 2021 | Graduate with Cum Laude Predicate, Industrial Engineering Master’s Program, Faculty of Industrial Technology, UAJY | [see](https://drive.google.com/file/d/1OnEYto6IWkVWaEGiAot_f6txz12vbdpQ/view?usp=drive_link) |
+| 2021 | Graduate with the Best Predicate in the Faculty of Industrial Technology, UAJY | [see](https://drive.google.com/file/d/1_memZS0G9JTH430-WTPy6A4teUL-49bl/view?usp=drive_link) |
+| 2021 | Earned Star Seller Badge for online shop on the Shopee E-commerce Platform within 6 months of business launch | – |
+| 2020 | 1st Winner of National Creative Video Competition, theme: “Healthy Farming, Towards Family Food Independence” by Caping Merapi | [see](https://drive.google.com/file/d/1yenmvwluvTab3iz9qkmhqUqovM4t65D5/view?usp=drive_link) |
 
 
 ### 📚 Training, Workshop, & Guest Lecturer
