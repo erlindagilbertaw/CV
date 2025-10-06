@@ -1,11 +1,14 @@
 # Erlinda Gilberta Wibawa
 
-  <img src="https://github.com/user-attachments/assets/1311dc05-d9e9-4e77-8042-d84b3be545dd" 
-       alt="Foto Erlinda" 
-       width="120">
-
-<erlindagilbertaw@gmail.com> <br>
-<https://www.instagram.com/erlinda_gilberta/?hl=en>
+<div class="profile">
+  <img src="https://github.com/user-attachments/assets/1311dc05-d9e9-4e77-8042-d84b3be545dd"
+  alt="Foto Erlinda"
+  width="120">
+  <p class="contact">
+    <a href="mailto:erlindagilbertaw@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a> |
+    <a href="https://www.instagram.com/erlinda_gilberta/?hl=en"><i class="fa-brands fa-instagram"></i> Instagram</a>
+  </p>
+</div>
 
 
 ><p align="justify"> A young engineering lecturer in the field of Industrial Engineering. Became a pioneer in establishing a study program and was entrusted to be the head of the Logistics Engineering Study Program at a very young age. Scientific concentration interests: Business analytics, data mining, technopreneurship, e-commerce, Computer Aided Design, production scheduling, operations research. Pioneered and successfully run several businesses (animal foods and health, digital products, and laundry). A person who has the ambition to achieve something more than others. Be a longlife learner is my life's soul to become a shining star. </p>
