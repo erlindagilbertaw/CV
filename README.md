@@ -2,13 +2,20 @@
 
 <div class="profile">
   <img src="https://github.com/user-attachments/assets/1311dc05-d9e9-4e77-8042-d84b3be545dd"
-  alt="Foto Erlinda"
-  width="120">
+       alt="Foto Erlinda"
+       width="120">
   <p class="contact">
-    <a href="mailto:erlindagilbertaw@gmail.com"><i class="fa-solid fa-envelope"></i> Email</a> |
-    <a href="https://www.instagram.com/erlinda_gilberta/?hl=en"><i class="fa-brands fa-instagram"></i> Instagram</a>
+    <a href="mailto:erlindagilbertaw@gmail.com">
+      <img src="https://img.icons8.com/ios-filled/16/000000/new-post.png" alt="Email Icon" style="vertical-align:middle; margin-right:4px;">
+      Email
+    </a> |
+    <a href="https://www.instagram.com/erlinda_gilberta/?hl=en">
+      <img src="https://img.icons8.com/ios-filled/16/000000/instagram-new.png" alt="Instagram Icon" style="vertical-align:middle; margin-right:4px;">
+      Instagram
+    </a>
   </p>
 </div>
+
 
 
 ><p align="justify"> A young engineering lecturer in the field of Industrial Engineering. Became a pioneer in establishing a study program and was entrusted to be the head of the Logistics Engineering Study Program at a very young age. Scientific concentration interests: Business analytics, data mining, technopreneurship, e-commerce, Computer Aided Design, production scheduling, operations research. Pioneered and successfully run several businesses (animal foods and health, digital products, and laundry). A person who has the ambition to achieve something more than others. Be a longlife learner is my life's soul to become a shining star. </p>
