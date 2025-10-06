@@ -6,11 +6,11 @@
        width="120">
   <p class="contact">
     <a href="mailto:erlindagilbertaw@gmail.com">
-      <img src="https://img.icons8.com/ios-filled/16/000000/new-post.png" alt="Email Icon" style="vertical-align:middle; margin-right:4px;">
+      <img src="https://img.icons8.com/color/20/new-post.png" alt="Email Icon" style="vertical-align:middle; margin-right:4px;">
       Email
     </a> |
     <a href="https://www.instagram.com/erlinda_gilberta/?hl=en">
-      <img src="https://img.icons8.com/ios-filled/16/000000/instagram-new.png" alt="Instagram Icon" style="vertical-align:middle; margin-right:4px;">
+      <img src="https://img.icons8.com/color/20/instagram-new.png" alt="Instagram Icon" style="vertical-align:middle; margin-right:4px;">
       Instagram
     </a>
   </p>
